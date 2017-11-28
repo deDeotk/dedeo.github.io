@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>deaconate &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/deaconate/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>Tour of Churches</title>
+		<link>/journal/tour-of-churches/</link>
+		<comments>/journal/tour-of-churches/#respond</comments>
+		<pubDate>Mon, 08 Jul 2013 11:00:11 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Islam]]></category>
+		<category><![CDATA[deaconate]]></category>
+		<category><![CDATA[social ethics]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=188</guid>
+		<description><![CDATA[Re: “Tour of Masajid,” The Muslim Observer (3 July 2013) I wonder what a similar tour of churches around my city (and to bring it home, a tour of NAPARC-variety churches—yea, a tour of my church) would reveal about the degree of care for the local community exhibited by Christians. Perhaps some meditation upon Matthew 5:16 &#8230; <p class="link-more"><a href="/journal/tour-of-churches/" class="more-link">Continue reading<span class="screen-reader-text"> "Tour of Churches"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><a href="http://muslimmedianetwork.com/mmn/?p=13470"><img class="alignright size-full wp-image-189" alt="Tour of Masajid — The Muslim Observer" src="/wp-content/uploads/2013/07/TourOfMasjid.jpg" width="180" height="224" /></a></p>
+<p>Re: “<a href="http://muslimmedianetwork.com/mmn/?p=13470">Tour of Masajid</a>,” <em>The Muslim Observer</em> (3 July 2013)</p>
+<p>I wonder what a similar tour of churches around my city (and to bring it home, a tour of NAPARC-variety churches—yea, a tour of my church) would reveal about the degree of care for the local community exhibited by Christians.</p>
+<p>Perhaps some meditation upon Matthew 5:16 is in order. To use <a href="http://www.ccel.org/ccel/calvin/calcom31.ix.xlii.html">Calvin’s commentary</a> as a prod for reflection: do I regulate my life (including my social ethic) so as &#8220;to excite all to glorify God.&#8221;</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/tour-of-churches/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

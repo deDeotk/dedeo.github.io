@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Protestant scholasticism &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/protestant-scholasticism/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>Steinmetz: “What Luther Got Wrong” about Aquinas</title>
+		<link>/journal/steinmetz-what-luther-got-wrong-about-aquinas/</link>
+		<comments>/journal/steinmetz-what-luther-got-wrong-about-aquinas/#respond</comments>
+		<pubDate>Wed, 11 Nov 2015 23:02:12 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Dies und Das]]></category>
+		<category><![CDATA[Quotables]]></category>
+		<category><![CDATA[Martin Luther]]></category>
+		<category><![CDATA[Protestant scholasticism]]></category>
+		<category><![CDATA[Thomas Aquinas]]></category>
+		<category><![CDATA[Thomism]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=1277</guid>
+		<description><![CDATA[It would be too much to assume that Aquinas will ever be as central a theologian for Protestants as he has been for Catholics. But Protestants have begun to put an end to their own self-imposed impoverishment. They have opened the ranks of the theologians with whom they are in regular conversation to include Aquinas. &#8230; <p class="link-more"><a href="/journal/steinmetz-what-luther-got-wrong-about-aquinas/" class="more-link">Continue reading<span class="screen-reader-text"> "Steinmetz: “What Luther Got Wrong” about Aquinas"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<blockquote><p><a href="http://divinity.duke.edu/academics/faculty/david-steinmetz"><img class="alignright size-full wp-image-1278" src="/wp-content/uploads/2015/11/DavidSteinmetz.jpg" alt="DavidSteinmetz" width="90" height="120" /></a>It would be too much to assume that Aquinas will ever be as central a theologian for Protestants as he has been for Catholics. But Protestants have begun to put an end to their own self-imposed impoverishment. They have opened the ranks of the theologians with whom they are in regular conversation to include Aquinas. It is a development long overdue.</p></blockquote>
+<p>—Professor Emeritus David C. Steinmetz, “<a href="http://www.religion-online.org/showarticle.asp?title=3267">What Luther Got Wrong</a>” (repr. from <em>Christian Century</em>, August 23, 2005, pp. 23, 25)</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/steinmetz-what-luther-got-wrong-about-aquinas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

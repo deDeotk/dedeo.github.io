@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>faith &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/faith/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>Notes on the Relationship Between Faith and Reason</title>
+		<link>/journal/notes-relationship-faith-reason/</link>
+		<comments>/journal/notes-relationship-faith-reason/#comments</comments>
+		<pubDate>Mon, 23 Jun 2014 14:59:51 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[philosophia]]></category>
+		<category><![CDATA[faith]]></category>
+		<category><![CDATA[philosophy]]></category>
+		<category><![CDATA[reason]]></category>
+		<category><![CDATA[theology]]></category>
+
+		<guid isPermaLink="false">https://dedeo.tk/?p=565</guid>
+		<description><![CDATA[Paulo summarizes the faith-relation relationship as understood in classical theology.]]></description>
+				<content:encoded><![CDATA[<p>Paulo summarizes <a href="http://thomists.wordpress.com/2014/06/22/notes-on-the-relationship-between-faith-and-reason/">the faith-relation relationship</a> as understood in classical theology.</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/notes-relationship-faith-reason/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Petrus van Mastricht &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/petrus-van-mastricht/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>The Soul of Preaching</title>
+		<link>/journal/soul-preaching/</link>
+		<comments>/journal/soul-preaching/#respond</comments>
+		<pubDate>Tue, 10 Dec 2013 02:07:28 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Quotables]]></category>
+		<category><![CDATA[homiletics]]></category>
+		<category><![CDATA[Petrus van Mastricht]]></category>
+		<category><![CDATA[preaching]]></category>
+		<category><![CDATA[rhetoric]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=467</guid>
+		<description><![CDATA[[O]ne must take heed that we be not excessively lengthy here [i.e., in doctrinal argument], and steal away our time from application, which is the soul of preaching. —Petrus van Mastricht, The Best Method of Preaching, trans. Todd Rester (Grand Rapids, MI: Reformation Heritage Books, 2013), 46.]]></description>
+				<content:encoded><![CDATA[<blockquote><p><a href="http://www.heritagebooks.org/the-best-method-of-preaching/"><img class="alignright size-full wp-image-468" alt="The Best Method of Preaching — Petrus van Mastricht" src="https://dash.dedeo.tk/wp-content/uploads/Mascricht_Best_Method_Preaching.jpg" width="175" height="257" /></a>[O]ne must take heed that we be not excessively lengthy here [i.e., in doctrinal argument], and steal away our time from application, which is the soul of preaching.</p></blockquote>
+<p style="text-align: right;">—Petrus van Mastricht, <a href="http://www.heritagebooks.org/the-best-method-of-preaching/"><em>The Best Method of Preaching</em></a>, trans. Todd Rester<br />
+(Grand Rapids, MI: Reformation Heritage Books, 2013), 46.</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/soul-preaching/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

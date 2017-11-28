@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nature and grace &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/nature-and-grace/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>For Calvin, grace presupposes nature</title>
+		<link>/journal/for-calvin-grace-presupposes-nature/</link>
+		<comments>/journal/for-calvin-grace-presupposes-nature/#respond</comments>
+		<pubDate>Thu, 09 Apr 2015 18:03:37 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Quotables]]></category>
+		<category><![CDATA[theologia naturalis]]></category>
+		<category><![CDATA[natural law]]></category>
+		<category><![CDATA[natural theology]]></category>
+		<category><![CDATA[nature and grace]]></category>
+
+		<guid isPermaLink="false">https://dedeo.tk/?p=972</guid>
+		<description><![CDATA[The two facets of our knowledge of God are not creatoris et Christi but creatoris et redemptoris, because for Calvin Christ is not only the redemptive Word of God but also the creative Word of God, just as the Spirit is not only regenerative but also creative. And, equally important, Calvin for the same reasons does not &#8230; <p class="link-more"><a href="/journal/for-calvin-grace-presupposes-nature/" class="more-link">Continue reading<span class="screen-reader-text"> "For Calvin, grace presupposes nature"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<blockquote><p>The two facets of our knowledge of God are not <em>creatoris et Christi</em> but <em>creatoris et redemptoris</em>, because for Calvin Christ is not only the redemptive Word of God but also the creative Word of God, just as the Spirit is not only regenerative but also creative. And, equally important, Calvin for the same reasons does not envisage a <em>cognitio redemptoris</em> that does not presuppose the <em>cognitio creatoris</em>.</p></blockquote>
+<p style="font-size: 0.8em; text-align: right;">—Willis, <a href="https://books.google.com/books?id=1M03AAAAIAAJ&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><em>Calvin’s Catholic Christology</em></a>, 121;<br />
+cited in Grabill, <a href="https://books.google.com/books?id=JQ6YrHUxaEsC&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><em>Rediscovering the Natural Law</em></a>, 86.</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/for-calvin-grace-presupposes-nature/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
