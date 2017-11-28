@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/presbyterian-history/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Training in distinguishing well precedes confessional codification</title>
 		<link>/journal/training-in-distinguishing-well-precedes-confessional-codification/</link>
-		<comments>/journal/training-in-distinguishing-well-precedes-confessional-codification/#respond</comments>
 		<pubDate>Mon, 27 Apr 2015 15:57:54 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -38,8 +37,6 @@
 </blockquote>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/training-in-distinguishing-well-precedes-confessional-codification/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

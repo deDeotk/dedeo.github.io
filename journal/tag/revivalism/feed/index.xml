@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/revivalism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>On the Spirit’s Use of the Word in Regeneration</title>
 		<link>/journal/on-the-spirits-use-of-the-word-in-regeneration/</link>
-		<comments>/journal/on-the-spirits-use-of-the-word-in-regeneration/#respond</comments>
 		<pubDate>Sat, 25 May 2013 13:09:39 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -37,8 +36,6 @@
 				<content:encoded><![CDATA[<blockquote><p><a href="http://prdl.org/author_view.php?a_id=405"><img class="alignright size-thumbnail wp-image-139" title="Rev Thomas Manton (1620–1677)" alt="Rev Thomas Manton (1620–1677)" src="/wp-content/uploads/2013/05/RevThomasManton-150x150.jpg" width="150" height="150" /></a>It is one of the sophisms of this age to urge the Spirit’s efficacy as a plea for the neglect of the means.</p></blockquote>
 <p style="text-align: right;">—Thomas Manton, <em>A Practical Exposition of James </em>s.v. James 1:18, <a href="http://archive.org/stream/practi00mant#page/n159/mode/2up">Obs. 4</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/on-the-spirits-use-of-the-word-in-regeneration/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

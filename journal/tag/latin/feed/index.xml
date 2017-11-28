@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/latin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Latin indeed</title>
 		<link>/journal/latin-indeed/</link>
-		<comments>/journal/latin-indeed/#respond</comments>
 		<pubDate>Wed, 08 Apr 2015 18:30:12 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -38,13 +37,10 @@
 <p>Yours truly—whose Latin in truth lies more <em>in potentia</em> than <em>in actu</em>—cares about the want of Latin in his own educational background not merely—not even mostly—for the impersonal and general reasons stated above but personally and specifically. Look, it&#8217;s no joke. Take it from someone who has spent and is spending much time studying with some of the masters in the field—if you can’t read Latin works, your ability to study classical Reformed theology will be severely limited in scope, mostly second-hand, and ever at risk of inadvertent inaccuracy and imprecise assessment; for so few of the major works in this period are available in accurate anglophone translations. And even then, the scholar whose work is solely based on translations will no doubt be forced to yield to the scholar whose work is based on originals. It&#8217;s just how things work.</p>
 <p>As I work concretely on owning up to this reality for myself, I hope as part of your path forward I’ll find you in class with me at the inaugural <a href="http://www.davenanttrust.org/latin-institute/">Davenant Latin Institute</a>, which aims step by step to bring a bit of the Protestant treasure chest <a href="http://www.davenanttrust.org/news/bringing-a-language-back-from-the-dead-the-davenant-latin-institute/">back from the dead</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/latin-indeed/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Davenant Latin Institute</title>
 		<link>/journal/davenant-latin-institute/</link>
-		<comments>/journal/davenant-latin-institute/#respond</comments>
 		<pubDate>Thu, 19 Mar 2015 17:09:55 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -55,8 +51,6 @@
 				<content:encoded><![CDATA[<p><a href="http://www.davenanttrust.org/latin-institute/">Davenant Latin Institute</a>: theological Latin graduate course online and in person (Puritan Seminary in Grand Rapids, Michigan).</p>
 <blockquote><p>The Davenant Latin Institute aims to equip today’s seminarians, graduate students, and teachers with the competency to unearth these treasures, reading them in the original and perhaps even translating them for others to enjoy. We will be offering a program of online courses, both introductory and advanced, equipping students with basic Latin reading competence and, for those that desire, the skills they need to engage with and translate some of the most difficult early modern theological texts.</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/davenant-latin-institute/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

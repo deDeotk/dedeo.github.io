@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/missiology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Père Etienne Renaud</title>
 		<link>/journal/pere-etienne-renaud/</link>
-		<comments>/journal/pere-etienne-renaud/#respond</comments>
 		<pubDate>Wed, 04 Sep 2013 14:58:07 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -38,13 +37,10 @@
 <p>Finally, his encouragement to walk the gospel’s “knife edge” fosters a healthy, realistic missiological perspective on Islam over against idealistic dreams or skeptical rants:</p>
 <blockquote><p>In this we must not be naïve or nurse any illusions, underestimating the difficulties of the encounter. I believe on the contrary that we need to look them straight in the face and that irenicism does not pay. But on the other hand, let us take care not to sink into scepticism and cynicism. The Gospel invites us to remain on a knife-edge: “Wise as serpents and innocent as doves.” To be both realistic and evangelical at the same time: two words which apparently are opposed to one another, but isn’t the Gospel a realism of a higher order, the only one which lasts from the viewpoint of eternity?</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/pere-etienne-renaud/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Fatiha Kaouès on Evangelical Missions in the Muslim World</title>
 		<link>/journal/fatiha-kaoues-on-evangelical-missions-in-the-muslim-world/</link>
-		<comments>/journal/fatiha-kaoues-on-evangelical-missions-in-the-muslim-world/#respond</comments>
 		<pubDate>Wed, 19 Jun 2013 18:01:37 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -63,8 +59,6 @@
 <p>From what I could gather in preparations for my class last fall, not many Reformed churches have Muslim outreaches of any kind. And when I asked Reformed pastors and leaders about how to reach Muslims in America with the gospel, the basic answer I received all around was, “one-on-one relationships.” Does this mean, then, that older strategies such as the “meetings for better understanding” approach or public debates (to bring up the elenctic side of things) are dead or passé? Is this answer truly the best contemporary wisdom, or is it a resignation that we American Evangelicals aren’t doing much of <em>anything </em>to open our hearts to our American Muslim neighbors? I’m not yet sure.</p>
 <p>Further, that these Egyptian house churches have discipleship programs for MBBs brings up a topic that deserves further attention in Reformed churches: discipleship (or “catechism,” to use the older word) specifically geared toward MBBs is, from what I have gathered thus far, virtually non-existent in Reformed churches. Yet, in my view, Reformed churches have a rich, catholic theological heritage that could be a great boon to MBB catechumens (and catechists!) on topics such as Nicene trinitarianism, Chalcedonian Christology, the divine decrees, human free will, and covenant theology, all of which have parallels/touch points/reinterpretations in Islamic theology. Will the Lord raise up harvesters in this field?</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/fatiha-kaoues-on-evangelical-missions-in-the-muslim-world/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

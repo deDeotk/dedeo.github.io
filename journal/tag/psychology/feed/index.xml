@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/psychology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Manton’s Christian wisdom approach to James 1:15</title>
 		<link>/journal/mantons-christian-wisdom-approach-to-james-115/</link>
-		<comments>/journal/mantons-christian-wisdom-approach-to-james-115/#respond</comments>
 		<pubDate>Fri, 26 Apr 2013 15:27:19 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -35,8 +34,6 @@
 <p>Whether you think Aristotle’s psychology is sound or sophistic, the method on display here—and the metaphysic it presupposes—regarding the relation of reason and faith, philosophy and theology, is something that I think is worthy of emulation by all who call themselves Christian. For if there is truly one God who is Truth and indeed the fount of all created truths, then those truths which can be known by reason not only cannot contradict those truths which are revealed in Holy Scripture but also can and should be a ready and skilled assistant in theology’s pursuit of supreme wisdom. Inversely, the truths revealed in Holy Scripture cannot destroy or replace the truths of reason but are to purify and perfect them. Hence Manton’s willingness to put faculty psychology on the table in a discourse on James 1:15.</p>
 <p>Counterintuitive as it might seem to our Protestant sensibilities, the wisdom that philosophy provides—when not despised but cherished as a gift from the God of all truth, and when applied appropriately—ought to be a boon to powerful preaching, teaching, and the building up of the saints in the gospel of Christ Jesus.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/mantons-christian-wisdom-approach-to-james-115/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

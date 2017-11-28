@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/principia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>How to defend first principles</title>
 		<link>/journal/how-to-defend-first-principles/</link>
-		<comments>/journal/how-to-defend-first-principles/#respond</comments>
 		<pubDate>Tue, 07 Jul 2015 17:20:01 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -37,13 +36,10 @@
 <p>The metaphysician, faced with someone who denies the first principles, or even with the task of judging the first principles, does no more than call to our attention the more searching eye already present in us all — merely reaches back more searchingly than does the ethician to what we all know. And, in that perspective, the first principles stand exposed as an intelligible hierarchy, a sequence of visions each flowing from its intelligible predecessor; and in that vision, “good” derives from “a being,” or, if one will, “ought” from “is.”</p></blockquote>
 <p style="text-align: right; font-size: .8em;">Lawrence Dewan, “<a href="http://people.stfx.ca/wsweet/EM/02-1986/No%202%20April%201986%20-%20Dewan.pdf">St. Thomas, Our Natural Lights, and the Moral Order</a>,” MaritainStudies/Etudes Maritainiennes (Ottawa) 2 (1986): 63.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/how-to-defend-first-principles/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>“The Presocratic are always with us”</title>
 		<link>/journal/the-presocratic-are-always-with-us/</link>
-		<comments>/journal/the-presocratic-are-always-with-us/#respond</comments>
 		<pubDate>Sun, 05 Jul 2015 21:38:05 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -60,13 +56,10 @@
 <p style="text-align: right; font-size: .8em;">Lawrence Dewan, “St. Thomas and the Perennial Need for Renewal in Metaphysics,” <em>Science et Esprit</em> 61, no. 1 (January 2009): 5–6<br />
 (<a href="http://maritain.nd.edu/ama/Vocation/Vocation302.pdf">republished [PDF download]</a> in <em><a href="http://maritain.nd.edu/ama/Vocation/">The Vocation of the Catholic Philosopher</a></em>).</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-presocratic-are-always-with-us/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The wise man and the task of a summa</title>
 		<link>/journal/the-wise-man-and-the-task-of-a-summa/</link>
-		<comments>/journal/the-wise-man-and-the-task-of-a-summa/#respond</comments>
 		<pubDate>Wed, 11 Mar 2015 17:33:27 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -87,8 +80,6 @@
 <p>Whether or not theology (or any other field of knowledge for that matter) will see another age of <em>summae</em>-making or the revival of fourfold causality, the ordering of knowledge to wisdom, and the like, pursuing this elusive end in theological science—or at the very least reminding the church that such wisdom is an important, several-centuries-long chapter in her story—might just be one of theology’s most precious gifts she can give to the church in her contemporary administration of the covenant of grace as teacher of sacred doctrine.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-wise-man-and-the-task-of-a-summa/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

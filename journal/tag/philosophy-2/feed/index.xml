@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/philosophy-2/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>On not playing the “anything you can do, I can do meta” game</title>
 		<link>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/</link>
-		<comments>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/#respond</comments>
 		<pubDate>Thu, 17 Mar 2016 17:50:56 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -33,13 +32,10 @@
 				<content:encoded><![CDATA[<p><a href="http://undergroundthomist.org/peter-rabbit">http://undergroundthomist.org/peter-rabbit</a></p>
 <p>Keep it real.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Voetius on metaphysics</title>
 		<link>/journal/voetius-on-metaphysics/</link>
-		<comments>/journal/voetius-on-metaphysics/#respond</comments>
 		<pubDate>Wed, 03 Feb 2016 02:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -57,13 +53,10 @@
 <p>&#8230;a theologian is no more able to forego metaphysics and logic than a carpenter a hammer or a soldier weapons.</p></blockquote>
 <p style="text-align: left; font-size: .8em;">Gisbertus Voetius, <em><a href="https://books.google.com/books?id=KxYVAAAAQAAJ&amp;pg=PA26#v=onepage&amp;q&amp;f=false">Exercitia et bibliotheca studiosi theologiae</a></em>, 2nd ed. (Utrecht, 1651), 26; cf. Aza Goudriaan, “Theology and Philosophy,” in <em>A Companion to Reformed Orthodoxy</em>, ed. Herman J. Selderhuis (Leiden: Brill, 2013), 27–63 (translation at p. 33; altered). Full sentence: <em>Ad accuratos, distinctos, &amp; evidentes conceptus tam anascevastice quam catascevastice in Theologia dogmatica &amp; practica, adhaec in explicatione scriptura formandos, ad proprias meditationes ampliandas, &amp; ad alienas diiudicandas non magis metaphysica &amp; logica carere potest Theologus quam faber malleo, aut miles armis.</em></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/voetius-on-metaphysics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Things first</title>
 		<link>/journal/things-first/</link>
-		<comments>/journal/things-first/#respond</comments>
 		<pubDate>Wed, 09 Sep 2015 11:17:31 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -78,13 +71,10 @@
 <blockquote><p>The philosophy which assumes and proceeds upon the reality of things may be called a Realistic Philosophy. I am convinced that in the end this will be acknowledged as the true philosophy, and will set aside the Sceptical Philosophy, which denies the reality of things, and the Agnostic Philosophy, which affirms (as the only thing it knows) that we cannot know things, and the Idealistic Philosophy, which adds to things out of the stores of the mind, with the view of improving them.</p></blockquote>
 <p style="text-align: right; font-size: .8em;">—James McCosh, <em><a href="https://books.google.com/books?id=dgIRAAAAYAAJ&#038;printsec=frontcover#v=onepage&#038;q&#038;f=false">First and Fundamental Truths</a>: Being a Treatise on Metaphysics</em> (New York: Charles Scribner’s Sons, 1889), 6–7.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/things-first/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Institute for Thomistic Philosophy</title>
 		<link>/journal/institute-thomistic-philosophy/</link>
-		<comments>/journal/institute-thomistic-philosophy/#respond</comments>
 		<pubDate>Tue, 27 Jan 2015 17:05:41 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -97,9 +87,7 @@
 				<content:encoded><![CDATA[<p><a href="http://itp.institute/"><img class=" size-medium wp-image-774 alignright" src="/wp-content/uploads/2015/01/ITP_logo-300x50.png" alt="The Institute for Thomistic Philosophy" width="300" height="50" /></a>The new <a href="http://itp.institute/">Institute for Thomistic Philosophy</a> looks to be a top-notch resource for analytic Thomism.</p>
 <blockquote><p>The aim of the iTP is to promote the philosophy of Thomas Aquinas, as well as more recent works, especially those of systematic philosophical nature, on the basis of Thomistic Philosophy, in the discussion with contemporary philosophy. The iTP organises and supports research projects, conferences, publications, as well as regular summer schools for students and postgraduates. The first Summer School will take place in the summer of 2016. Introductory sessions will be offered regularly for philosophically interested parties and for students of all programs. (“<a href="http://itp.institute/?q=en/node/6">The Institute</a>”)</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/institute-thomistic-philosophy/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Notes on the Relationship Between Faith and Reason</title>
 		<link>/journal/notes-relationship-faith-reason/</link>
@@ -122,7 +110,6 @@
 		<item>
 		<title>On Evangelical Thomism</title>
 		<link>/journal/evangelical-thomism/</link>
-		<comments>/journal/evangelical-thomism/#respond</comments>
 		<pubDate>Wed, 18 Jun 2014 15:39:04 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -136,13 +123,10 @@
 				<content:encoded><![CDATA[<blockquote><p><a title="Visit Norman Geisler’s web site" href="http://normangeisler.com/"><img class="alignright size-full wp-image-518" src="https://dash.dedeo.tk/wp-content/uploads/NormanGeisler.jpg" alt="Norman Geisler" width="177" height="199" /></a>As for myself, I gladly confess that the highest compliment that could be paid to me as a Christian philosopher, apologist, and theologian is to call me “Thomistic.” This, of course, does not mean I accept everything Aquinas wrote naively and uncritically. It does mean that I believe he was one of the greatest systematic minds the christian church has ever had, and that I can see a lot farther standing on his shoulders than by attacking him in the back. No, I do not agree with everything he ever wrote. On the other hand, neither do I agree with everything <em>I</em> ever wrote. But seven hundred years from now no one will even recognize my name, while Aquinas’s works will still be used with great profit.</p></blockquote>
 <p style="text-align: right;">—Norman L. Geisler, <em>Thomas Aquinas: An Evangelical Appraisal</em> (Grand Rapids: Baker, 1991), 14.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/evangelical-thomism/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Theology’s scholastic backbone</title>
 		<link>/journal/theologys-scholastic-backbone/</link>
-		<comments>/journal/theologys-scholastic-backbone/#respond</comments>
 		<pubDate>Tue, 21 May 2013 13:43:16 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -164,8 +148,6 @@
 <p style="text-align: right;">—Dr. Edward Feser, “<a href="http://edwardfeser.blogspot.com/2013/05/neither-nature-alone-nor-grace-alone.html">Neither nature alone nor grace alone</a>”</p>
 <p>The crying need in Roman Catholic theology finds an analog in contemporary Reformed catholicism. We Protestants used to know our Plato, Aristotle, Augustine, and Thomas as well as our Roman interlocutors. Moreover, we used to be concerned with the nature of reality, the nature of truth, and the unity of knowledge. Perhaps it is time for us, along with Rome, to steady our spines with some corrective surgery from the great doctors of the church. Where to begin? Try <a href="http://www.wtsbooks.com/introduction-to-reformed-scholasticism-william-van-asselt-9781601781215?utm_source=lodonnell&amp;utm_medium=blogpartners">here</a>, <a href="http://prdl.org/">here</a>, <a href="http://juniusinstitute.org/">here</a>, <a href="http://calvinistinternational.com/2013/05/15/mastricht-and-the-best-method-of-preaching/">here</a>, and <a href="http://bavinckinstitute.org/">here</a>, for starters.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/theologys-scholastic-backbone/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

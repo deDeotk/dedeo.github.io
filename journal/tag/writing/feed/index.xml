@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/writing/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Truth, style, and the secret of writing</title>
 		<link>/journal/truth-style-and-the-secret-of-writing/</link>
-		<comments>/journal/truth-style-and-the-secret-of-writing/#respond</comments>
 		<pubDate>Mon, 08 Jun 2015 15:44:38 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -37,8 +36,6 @@
 <p>Thinking is conceiving what is; writing truly, that is writing according to one&#8217;s thought, is revealing what is, not stringing sentences together. And so the secret of writing is to stand and study things ardently, until they speak to you and themselves determine their own expression.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 202–04.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/truth-style-and-the-secret-of-writing/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

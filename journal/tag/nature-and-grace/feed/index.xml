@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/nature-and-grace/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>For Calvin, grace presupposes nature</title>
 		<link>/journal/for-calvin-grace-presupposes-nature/</link>
-		<comments>/journal/for-calvin-grace-presupposes-nature/#respond</comments>
 		<pubDate>Thu, 09 Apr 2015 18:03:37 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -35,8 +34,6 @@
 <p style="font-size: 0.8em; text-align: right;">—Willis, <a href="https://books.google.com/books?id=1M03AAAAIAAJ&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><em>Calvin’s Catholic Christology</em></a>, 121;<br />
 cited in Grabill, <a href="https://books.google.com/books?id=JQ6YrHUxaEsC&amp;lpg=PP1&amp;pg=PP1#v=onepage&amp;q&amp;f=false"><em>Rediscovering the Natural Law</em></a>, 86.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/for-calvin-grace-presupposes-nature/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

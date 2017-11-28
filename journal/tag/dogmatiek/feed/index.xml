@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/dogmatiek/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Bavinck’s outline of the Reformed Dogmatics</title>
 		<link>/journal/bavincks-outline-of-the-reformed-dogmatics/</link>
-		<comments>/journal/bavincks-outline-of-the-reformed-dogmatics/#respond</comments>
 		<pubDate>Wed, 17 Feb 2016 19:18:01 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -34,8 +33,6 @@
 		<description><![CDATA[https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/]]></description>
 				<content:encoded><![CDATA[<p><a href="https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/">https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/bavincks-outline-of-the-reformed-dogmatics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

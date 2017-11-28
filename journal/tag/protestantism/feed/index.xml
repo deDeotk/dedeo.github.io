@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/protestantism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Michael West Oborne on the Future of Philosophy and Theology</title>
 		<link>/journal/michael-west-oborne-on-the-future-of-philosophy-and-theology/</link>
-		<comments>/journal/michael-west-oborne-on-the-future-of-philosophy-and-theology/#respond</comments>
 		<pubDate>Thu, 19 Jun 2014 13:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -38,8 +37,6 @@
 <p>Whether Protestants are, first, aware of such shifts and, second, producing men and women capable of navigating these tumultuous seas with a moral compass oriented toward their source and “chief and highest end” (WLC 1) are questions that need to be added to Protestant conversations on its future.</p>
 <p>Further, to press deeper here and inquire a bit into the foundations of Protestant discourse, is there something valuable to be appropriated in the manner by which the Dominican tradition poses the question of tomorrow: theology <em>and philosophy’s</em> role? Is it the case that we Protestants know a thing or two about “political theology” but could learn a thing or two about political <em>philosophy </em>and another thing or two about the interrelation of faith and reason, especially in relation to social ethics and the common good?</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/michael-west-oborne-on-the-future-of-philosophy-and-theology/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

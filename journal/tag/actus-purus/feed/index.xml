@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/actus-purus/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>“All things, by desiring their own perfection, desire God Himself”</title>
 		<link>/journal/all-things-by-desiring-their-own-perfection-desire-god-himself/</link>
-		<comments>/journal/all-things-by-desiring-their-own-perfection-desire-god-himself/#respond</comments>
 		<pubDate>Mon, 06 Apr 2015 17:48:46 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -35,8 +34,6 @@
 <blockquote><p>All things, by desiring their own perfection, desire God Himself, inasmuch as the perfections of all things are so many similitudes of the divine being.</p></blockquote>
 <p style="text-align: right; font-size: .8em;">— Aquinas, <em>ST</em> <a href="http://dhspriory.org/thomas/summa/FP/FP006.html#FPQ6A1THEP1">1.6.1 ad 2</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/all-things-by-desiring-their-own-perfection-desire-god-himself/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

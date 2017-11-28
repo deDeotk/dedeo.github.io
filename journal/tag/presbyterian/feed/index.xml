@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/presbyterian/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>A reflection on “ultraism”</title>
 		<link>/journal/a-reflection-on-ultraism/</link>
-		<comments>/journal/a-reflection-on-ultraism/#respond</comments>
 		<pubDate>Tue, 30 Apr 2013 14:00:33 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -50,8 +49,6 @@
 <li><span style="line-height: 15px;"><a href="http://www.wtsbooks.com/princeton-and-the-work-of-the-christian-ministry-james-garretson-9781848711648?utm_source=lodonnell&amp;utm_medium=blogpartners"><img class="alignright  wp-image-81" alt="Princeton and the Work of the Christian Ministry (2 vols.) — James M. Garretson" src="/wp-content/uploads/9781848711648m.png" width="138" height="210" /></a>Sprague’s discourse is included in <a href="http://www.wtsbooks.com/princeton-and-the-work-of-the-christian-ministry-james-garretson-9781848711648?utm_source=lodonnell&amp;utm_medium=blogpartners"><em>Princeton and the Work of the Christian Ministry</em></a>, ed. James M. Garretson.</span></li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-reflection-on-ultraism/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

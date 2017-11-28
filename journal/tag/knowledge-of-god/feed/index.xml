@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/knowledge-of-god/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Why the quinque viae are for those living in via</title>
 		<link>/journal/why-the-quinque-viae-are-for-those-living-in-via/</link>
-		<comments>/journal/why-the-quinque-viae-are-for-those-living-in-via/#respond</comments>
 		<pubDate>Sat, 25 Jul 2015 19:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -46,8 +45,6 @@
 <p style="text-align: right; font-size: .8em;">—Aquinas, <em>Expositio super librum Boethii De trinitate</em> <a href="http://www.dhspriory.org/thomas/BoethiusDeTr.htm#12">1.2 ad 1</a>.</p>
 <p style="text-align: left;">See Carlo Leget, <em><a href="https://books.google.com/books?id=7vGSpYngCH0C&amp;lpg=PA10&amp;ots=MgHdviYf-m&amp;dq=%22the%20supreme%20knowledge%22%20aquinas&amp;pg=PA10#v=onepage&amp;q&amp;f=false">Living with God</a>: Thomas Aquinas on the Relation Between Life on Earth and “Life” After Death</em> (Leuven: Peeters, 1997), <a href="https://books.google.com/books?id=7vGSpYngCH0C&amp;lpg=PA10&amp;ots=MgHdviYf-m&amp;dq=%22the%20supreme%20knowledge%22%20aquinas&amp;pg=PA10#v=onepage&amp;q&amp;f=false">10n9</a>; cf. Daniel J. Sullivan, <em>An Introduction to Philosophy: Perennial Principles of the Classical Realist Tradition</em> (Charlotte: TAN Books, 2009), 249–50.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/why-the-quinque-viae-are-for-those-living-in-via/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/american-religion/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>A Thanksgiving for American Independence</title>
 		<link>/journal/a-thanksgiving-for-american-independence/</link>
-		<comments>/journal/a-thanksgiving-for-american-independence/#respond</comments>
 		<pubDate>Sat, 04 Jul 2015 11:14:36 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -33,13 +32,10 @@
 				<content:encoded><![CDATA[<blockquote><p><img class="alignright size-full wp-image-1112" src="/wp-content/uploads/2015/07/Flag_of_the_United_States.png" alt="Flag_of_the_United_States" width="300" height="158" />Almighty God, who hast made of one blood all nations of men to dwell on all the face of the earth, and hast determined the times before appointed, and the bounds of their habitation; We yield thee our unfeigned thanks and praise for the wonderful and mighty deliverance whereby thou didst raise up the people of these States from dependence and distress to a name and a place among the nations, and give to them this good land for an inheritance. Not by our might or for our merit, but of thy goodness and through thy power and providence we are what we are this day before thee; and therefore not unto us, O Lord, not unto us, but unto thy name be ascribed all honor and glory, from generation to generation; through Jesus Christ our Lord. <em>Amen</em>.</p></blockquote>
 <p style="text-align: right;"><a href="https://books.google.com/books?id=F2dAAQAAMAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><em>The Book of Common Prayer as Amended by the Westminster Divines, A. D. 1661</em></a>, ed. Charles W. Shields (Philadelphia: James Claxton, 1867), 351–52.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-thanksgiving-for-american-independence/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>George Marsden at RTS Orlando</title>
 		<link>/journal/george-marsden-rts-orlando/</link>
-		<comments>/journal/george-marsden-rts-orlando/#respond</comments>
 		<pubDate>Tue, 04 Nov 2014 22:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -50,8 +46,6 @@
 				<content:encoded><![CDATA[<p><a href="http://books.google.com/books?id=U-iMAgAAQBAJ"><img class="alignright size-full wp-image-675" src="/wp-content/uploads/2014/11/TwilightOfTheAmericanEnlightenment.jpg" alt="TwilightOfTheAmericanEnlightenment" width="149" height="227" /></a><a href="http://history.nd.edu/faculty/emeritus-faculty/george-marsden/">Prof. George Marsden</a> is lecturing <a href="http://www.rts.edu/Site/RTSNearYou/Orlando/thecurrentread.aspx">tonight at RTS Orlando</a> on the theme of his latest publication: <em><a href="http://books.google.com/books?id=U-iMAgAAQBAJ">The Twilight of the American Enlightenment: The 1950s and the Crisis of Liberal Belief</a></em>. Come hear a world class historian of American religion.</p>
 <p>See also Al Mohler’s <a href="http://www.albertmohler.com/2014/02/10/the-american-enlightenment-at-twighlight-a-conversation-with-historian-george-m-marsden/">recent interview with Marsden</a> on his <em>Twilight</em>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/george-marsden-rts-orlando/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

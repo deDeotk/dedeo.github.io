@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/reformed-catholicism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -38,7 +38,6 @@
 		<item>
 		<title>J. Todd Billings on Reformed Catholicity</title>
 		<link>/journal/j-todd-billings-reformed-catholicity/</link>
-		<comments>/journal/j-todd-billings-reformed-catholicity/#respond</comments>
 		<pubDate>Mon, 06 Oct 2014 23:04:56 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -52,8 +51,6 @@
 <p>In passing Billings references his heartfelt essay “<a href="http://www.jtoddbillings.com/wp-content/uploads/2014/06/Billings-Catholic-and-Reformed-Pro-Ecclesia1.pdf">Catholic and Reformed: Rediscovering a Tradition</a>,” <em>Pro Ecclesia</em> 23:2 (2014): 132–46, which sets forth a vision for Reformed catholicity in more depth vis-a-vis contemporary trends in Evangelical thought. Watch Billings deliver this essay in his inaugural lecture as Gordon H. Girod Research Professor of Reformed Theology at <a href="http://www.westernsem.edu/" target="_blank">Western Theological Seminary</a> in Holland, MI, below.</p>
 <div class="embed-vimeo" style="text-align: center;"><iframe src="https://player.vimeo.com/video/65456780" width="525" height="295" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/j-todd-billings-reformed-catholicity/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

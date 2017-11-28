@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/grace/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>On the Spirit’s Use of the Word in Regeneration</title>
 		<link>/journal/on-the-spirits-use-of-the-word-in-regeneration/</link>
-		<comments>/journal/on-the-spirits-use-of-the-word-in-regeneration/#respond</comments>
 		<pubDate>Sat, 25 May 2013 13:09:39 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -37,13 +36,10 @@
 				<content:encoded><![CDATA[<blockquote><p><a href="http://prdl.org/author_view.php?a_id=405"><img class="alignright size-thumbnail wp-image-139" title="Rev Thomas Manton (1620–1677)" alt="Rev Thomas Manton (1620–1677)" src="/wp-content/uploads/2013/05/RevThomasManton-150x150.jpg" width="150" height="150" /></a>It is one of the sophisms of this age to urge the Spirit’s efficacy as a plea for the neglect of the means.</p></blockquote>
 <p style="text-align: right;">—Thomas Manton, <em>A Practical Exposition of James </em>s.v. James 1:18, <a href="http://archive.org/stream/practi00mant#page/n159/mode/2up">Obs. 4</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/on-the-spirits-use-of-the-word-in-regeneration/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Theology’s scholastic backbone</title>
 		<link>/journal/theologys-scholastic-backbone/</link>
-		<comments>/journal/theologys-scholastic-backbone/#respond</comments>
 		<pubDate>Tue, 21 May 2013 13:43:16 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -65,8 +61,6 @@
 <p style="text-align: right;">—Dr. Edward Feser, “<a href="http://edwardfeser.blogspot.com/2013/05/neither-nature-alone-nor-grace-alone.html">Neither nature alone nor grace alone</a>”</p>
 <p>The crying need in Roman Catholic theology finds an analog in contemporary Reformed catholicism. We Protestants used to know our Plato, Aristotle, Augustine, and Thomas as well as our Roman interlocutors. Moreover, we used to be concerned with the nature of reality, the nature of truth, and the unity of knowledge. Perhaps it is time for us, along with Rome, to steady our spines with some corrective surgery from the great doctors of the church. Where to begin? Try <a href="http://www.wtsbooks.com/introduction-to-reformed-scholasticism-william-van-asselt-9781601781215?utm_source=lodonnell&amp;utm_medium=blogpartners">here</a>, <a href="http://prdl.org/">here</a>, <a href="http://juniusinstitute.org/">here</a>, <a href="http://calvinistinternational.com/2013/05/15/mastricht-and-the-best-method-of-preaching/">here</a>, and <a href="http://bavinckinstitute.org/">here</a>, for starters.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/theologys-scholastic-backbone/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/emil-brunner/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>“the supreme question of all life”</title>
 		<link>/journal/the-supreme-question-of-all-life/</link>
-		<comments>/journal/the-supreme-question-of-all-life/#respond</comments>
 		<pubDate>Fri, 06 Mar 2015 00:27:51 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -32,8 +31,6 @@
 				<content:encoded><![CDATA[<blockquote><p><img class="alignright wp-image-642 size-medium" style="border: 1px black solid;" src="/wp-content/uploads/2014/10/EmilBrunner-202x300.jpg" alt="EmilBrunner" width="202" height="300" />One does not understand the gospel of revelation and redemption through Jesus Christ if it does not answer for him the question: “What shall I do?” A theology that does not call for and strengthen ethical activity is certainly not a Christian theology. The ethical question is the supreme question of all life.</p></blockquote>
 <p style="text-align: right; font-size: .8em;">—Emil Brunner, “The Problem of Ethics,” in <em>The Theology of Crisis</em> (New York: Scribner’s, 1929), 68.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-supreme-question-of-all-life/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

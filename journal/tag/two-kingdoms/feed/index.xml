@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/two-kingdoms/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Free download: Johannes van Oort, Jerusalem and Babylon: A Study of Augustine’s City of God and the Sources of His Doctrine of the Two Cities (Leiden: Brill, 2013)</title>
 		<link>/journal/free-download-johannes-van-oort-jerusalem-and-babylon-a-study-of-augustines-city-of-god-and-the-sources-of-his-doctrine-of-the-two-cities-leiden-brill-2013/</link>
-		<comments>/journal/free-download-johannes-van-oort-jerusalem-and-babylon-a-study-of-augustines-city-of-god-and-the-sources-of-his-doctrine-of-the-two-cities-leiden-brill-2013/#respond</comments>
 		<pubDate>Tue, 24 Mar 2015 14:42:57 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -32,13 +31,10 @@
 		<description><![CDATA[Johannes van Oort, Jerusalem and Babylon: A Study of Augustine’s City of God and the Sources of His Doctrine of the Two Cities (Leiden: Brill, 2013).]]></description>
 				<content:encoded><![CDATA[<p>Johannes van Oort, <a href="https://www.academia.edu/4535739/Book_Freely_Available_2013_Jerusalem_and_Babylon_A_Study_of_Augustines_City_of_God_and_the_Sources_of_his_Doctrine_of_the_Two_Cities"><em>Jerusalem and Babylon: A Study of Augustine’s</em> City of God <em>and the Sources of His Doctrine of the Two Cities</em></a> (Leiden: Brill, 2013).</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/free-download-johannes-van-oort-jerusalem-and-babylon-a-study-of-augustines-city-of-god-and-the-sources-of-his-doctrine-of-the-two-cities-leiden-brill-2013/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Natural law theory’s Herculean project</title>
 		<link>/journal/natural-law-theorys-herculean-project/</link>
-		<comments>/journal/natural-law-theorys-herculean-project/#respond</comments>
 		<pubDate>Thu, 18 Jul 2013 15:30:49 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -64,8 +60,6 @@
 <li>Supposing that the parties in the NAPARC discussions of natural law (whether proponents or opponents) affirm “that this is a Herculean project,” would they hold that this is a philosophical or a theological project? To use the older language: which science in the encyclopedia of the sciences would they task with tackling this project?</li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/natural-law-theorys-herculean-project/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

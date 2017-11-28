@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/spirituality/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>the feet by which we walk near to and far from God</title>
 		<link>/journal/the-feet-by-which-we-walk-near-to-and-far-from-god/</link>
-		<comments>/journal/the-feet-by-which-we-walk-near-to-and-far-from-god/#respond</comments>
 		<pubDate>Sat, 04 Apr 2015 20:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -35,13 +34,10 @@
 <p>We draw near to God by no corporeal steps, since He is everywhere, but by the affections of our soul, and by the actions of that same soul do we withdraw from Him.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">—Aquinas, <em>ST</em> <a href="http://dhspriory.org/thomas/summa/FP/FP003.html#FPQ3A1THEP1">1.3.1 ad 5</a>.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-feet-by-which-we-walk-near-to-and-far-from-god/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Aquinas’s secret garden</title>
 		<link>/journal/aquinass-secret-garden/</link>
-		<comments>/journal/aquinass-secret-garden/#respond</comments>
 		<pubDate>Wed, 17 Jul 2013 15:44:23 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -56,8 +52,6 @@
 <p>—Preface to <em>Saint Thomas Aquinas</em>, vol. 2, <em>Spiritual Master</em>, trans. Robert Royal<br />
 (Washington D.C.: The Catholic University of America Press, 2003).</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/aquinass-secret-garden/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/study/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Review of Sertillanges’s The Intellectual Life</title>
 		<link>/journal/review-of-sertillangess-the-intellectual-life/</link>
-		<comments>/journal/review-of-sertillangess-the-intellectual-life/#respond</comments>
 		<pubDate>Thu, 25 Jun 2015 23:21:21 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -34,13 +33,10 @@
 <p>For those of us who come from family heritages rooted deeply (and proudly) in the <em>artes serviles, </em>I think it is not only fair to say but also <em>needs</em> to be said that<i> </i>choosing an intellectual vocation without the benefit of a father or other trusted guide who well knows the way to and the way of life within the <em>artes liberales</em> is fraught with all the dangers of the blind leading the blind on a bushwhack through Amazon. If one’s hindsight can benefit another’s foresight, let me say without hesitation: you <em>need</em> a guide for living an intellectual life; the “how to” part of this life does not just magically come down from heaven; it is acquired not infused knowledge.</p>
 <p>He who dares walk through the dark jungle, then, and who sees the wisdom of consulting an experienced guide who carries a sharp machete and a bright torch will not be disappointed in perusing <a href="https://calvinistinternational.com/2015/06/25/live-truth-sertillangess-intellectual-life/">Sertillanges’s classic meditation</a> on St. Thomas’s “<a href="http://dhspriory.org/thomas/DearJohn.htm">Letter of Thomas Aquinas to Brother John on How to Study</a>.”</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/review-of-sertillangess-the-intellectual-life/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>a prayer before study</title>
 		<link>/journal/a-prayer-before-study/</link>
-		<comments>/journal/a-prayer-before-study/#respond</comments>
 		<pubDate>Tue, 17 Feb 2015 19:36:19 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -59,8 +55,6 @@
 <p style="text-align: right;">—Thomas Aquinas</p>
 <p><span style="font-size: .8em;">Published as <em>Oratio</em> in the Raccolta #764, <em>Studiorum Ducem</em>, Encyclical of Pope Pius XI, promulgated 29 June 1923 (<a href="http://w2.vatican.va/content/pius-xi/la/encyclicals/documents/hf_p-xi_enc_19230629_studiorum-ducem.html">Latin original</a>; <a href="http://www.papalencyclicals.net/Pius11/P11STUDI.HTM">English translation</a>; cf. <a href="http://www.preces-latinae.org/thesaurus/Varia/CreatorIneff.html"><em>Oratio S. Thomae Aquinatis ante studium</em></a>.).</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-prayer-before-study/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

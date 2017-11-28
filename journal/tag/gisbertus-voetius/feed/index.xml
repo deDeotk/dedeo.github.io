@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/gisbertus-voetius/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Voetius’s source list on faith and reason</title>
 		<link>/journal/voetiuss-source-list-faith-reason/</link>
-		<comments>/journal/voetiuss-source-list-faith-reason/#respond</comments>
 		<pubDate>Fri, 30 Jan 2015 16:12:29 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -35,8 +34,6 @@
 		<description><![CDATA[Eric Parker translates Voetius’s list of recommended Patristic, Medieval, and contemporary sources on the proper relation of faith and reason. (“De ratione humana in rebus fidei” in Gisbertus Voetius, Selectarum disputationum theologicarum.)]]></description>
 				<content:encoded><![CDATA[<p>Eric Parker translates <a href="https://epistole.wordpress.com/2015/01/30/17th-century-list-of-readings-on-the-use-of-reason-in-matters-of-faith/">Voetius’s list of recommended Patristic, Medieval, and contemporary sources</a> on the proper relation of faith and reason. (“De ratione humana in rebus fidei” in Gisbertus Voetius, <em>Selectarum disputationum theologicarum</em>.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/voetiuss-source-list-faith-reason/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

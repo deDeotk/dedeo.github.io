@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/theological-virtues/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>three things</title>
 		<link>/journal/three-things/</link>
-		<comments>/journal/three-things/#respond</comments>
 		<pubDate>Sun, 22 Feb 2015 12:10:25 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -38,8 +37,6 @@
 <p>The first is taught in the Creed, where knowledge of the articles of faith is given; the second is in the Lord’s Prayer; the third is in the Law.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">— Thomas Aquinas, prologue to <em>Collationes in decem praeceptis</em> (<a href="http://dhspriory.org/thomas/TenCommandments.htm#0"><em>Explanation of the Ten Commandments</em></a>).</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/three-things/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

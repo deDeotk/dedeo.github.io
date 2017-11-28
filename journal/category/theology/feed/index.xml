@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/category/theology/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -120,7 +120,6 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 		<item>
 		<title>Glossa ordinaria project</title>
 		<link>/journal/glossa-ordinaria-project/</link>
-		<comments>/journal/glossa-ordinaria-project/#respond</comments>
 		<pubDate>Mon, 07 Mar 2016 19:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -136,13 +135,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 <p>  In order to rectify this deficiency, the series proposes carefully to edit the Latin text of each book (and, indeed, of each version) of the Gloss.
 </p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/glossa-ordinaria-project/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Bavinck’s outline of the Reformed Dogmatics</title>
 		<link>/journal/bavincks-outline-of-the-reformed-dogmatics/</link>
-		<comments>/journal/bavincks-outline-of-the-reformed-dogmatics/#respond</comments>
 		<pubDate>Wed, 17 Feb 2016 19:18:01 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -156,13 +152,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 		<description><![CDATA[https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/]]></description>
 				<content:encoded><![CDATA[<p><a href="https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/">https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/bavincks-outline-of-the-reformed-dogmatics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Walgrave on the theology-philosophy relation in Aquinas</title>
 		<link>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/</link>
-		<comments>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/#respond</comments>
 		<pubDate>Thu, 04 Feb 2016 23:53:15 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -188,13 +181,10 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Voetius on metaphysics</title>
 		<link>/journal/voetius-on-metaphysics/</link>
-		<comments>/journal/voetius-on-metaphysics/#respond</comments>
 		<pubDate>Wed, 03 Feb 2016 02:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -212,13 +202,10 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 <p>&#8230;a theologian is no more able to forego metaphysics and logic than a carpenter a hammer or a soldier weapons.</p></blockquote>
 <p style="text-align: left; font-size: .8em;">Gisbertus Voetius, <em><a href="https://books.google.com/books?id=KxYVAAAAQAAJ&amp;pg=PA26#v=onepage&amp;q&amp;f=false">Exercitia et bibliotheca studiosi theologiae</a></em>, 2nd ed. (Utrecht, 1651), 26; cf. Aza Goudriaan, “Theology and Philosophy,” in <em>A Companion to Reformed Orthodoxy</em>, ed. Herman J. Selderhuis (Leiden: Brill, 2013), 27–63 (translation at p. 33; altered). Full sentence: <em>Ad accuratos, distinctos, &amp; evidentes conceptus tam anascevastice quam catascevastice in Theologia dogmatica &amp; practica, adhaec in explicatione scriptura formandos, ad proprias meditationes ampliandas, &amp; ad alienas diiudicandas non magis metaphysica &amp; logica carere potest Theologus quam faber malleo, aut miles armis.</em></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/voetius-on-metaphysics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>A trove of digitized Garrigou-Lagrange texts</title>
 		<link>/journal/a-trove-of-digitized-garrigou-lagrange-texts/</link>
-		<comments>/journal/a-trove-of-digitized-garrigou-lagrange-texts/#respond</comments>
 		<pubDate>Tue, 19 Jan 2016 00:56:48 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -233,13 +220,10 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 				<content:encoded><![CDATA[<p><a href="http://thomistica.net/news/2016/1/6/a-trove-of-digitized-garrigou-lagrange-texts">Digitized Anglophone corpus</a> of Garrigou-Lagrange, one of the sharpest of the twentieth-century Thomists.</p>
 <p>Particularly noteworthy: the two-volume (<a href="https://archive.org/stream/Garrigou-LagrangeEnglish/God_%20His%20Existence%20and%20His%20Nature%20%28vol.%201%29%20-%20Garrigou-Lagrange%2C%20Reginald%2C%20O.P_">1</a>, <a href="https://archive.org/stream/Garrigou-LagrangeEnglish/God_%20His%20Existence%20and%20His%20Nature%20%28vol.%202%29%20-%20Garrigou-Lagrange%2C%20Reginald%2C%20O.P_">2</a>) treatise on natural theology was difficult and expensive to obtain in English translation previously.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-trove-of-digitized-garrigou-lagrange-texts/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Why the quinque viae are for those living in via</title>
 		<link>/journal/why-the-quinque-viae-are-for-those-living-in-via/</link>
-		<comments>/journal/why-the-quinque-viae-are-for-those-living-in-via/#respond</comments>
 		<pubDate>Sat, 25 Jul 2015 19:13:27 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -265,8 +249,6 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 <p style="text-align: right; font-size: .8em;">—Aquinas, <em>Expositio super librum Boethii De trinitate</em> <a href="http://www.dhspriory.org/thomas/BoethiusDeTr.htm#12">1.2 ad 1</a>.</p>
 <p style="text-align: left;">See Carlo Leget, <em><a href="https://books.google.com/books?id=7vGSpYngCH0C&amp;lpg=PA10&amp;ots=MgHdviYf-m&amp;dq=%22the%20supreme%20knowledge%22%20aquinas&amp;pg=PA10#v=onepage&amp;q&amp;f=false">Living with God</a>: Thomas Aquinas on the Relation Between Life on Earth and “Life” After Death</em> (Leuven: Peeters, 1997), <a href="https://books.google.com/books?id=7vGSpYngCH0C&amp;lpg=PA10&amp;ots=MgHdviYf-m&amp;dq=%22the%20supreme%20knowledge%22%20aquinas&amp;pg=PA10#v=onepage&amp;q&amp;f=false">10n9</a>; cf. Daniel J. Sullivan, <em>An Introduction to Philosophy: Perennial Principles of the Classical Realist Tradition</em> (Charlotte: TAN Books, 2009), 249–50.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/why-the-quinque-viae-are-for-those-living-in-via/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

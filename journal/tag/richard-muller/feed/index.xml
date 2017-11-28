@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/richard-muller/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Giving Thanks for Calvin Seminary’s PhD Program</title>
 		<link>/journal/giving-thanks-calvin-seminarys-phd-program/</link>
-		<comments>/journal/giving-thanks-calvin-seminarys-phd-program/#respond</comments>
 		<pubDate>Tue, 03 Dec 2013 22:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -49,8 +48,6 @@
 <p>While I stare down the still long, windy way to the PhD marathon’s finish line, it is an encouragement to be reminded along the way not only that the sowing in tears is designed to yield harvests of joy in due time but also that over the past two decades the Lord God has manifestly blessed this program with exceptional teachers whose living epistles are blessing Christ’s bride all over the world.</p>
 <p><a href="http://calvinseminary.edu/2013/10/11/phd-celebration-2013/"><img class="aligncenter size-full wp-image-443" alt="CTS PhD Celebration 2013" src="https://dash.dedeo.tk/wp-content/uploads/CTS_phd_celebration.png" width="700" height="223" /></a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/giving-thanks-calvin-seminarys-phd-program/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
