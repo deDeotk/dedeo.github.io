@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Starting Afresh</title>
+	<atom:link href="http://localhost/journal/starting-afresh/feed/" rel="self" type="application/rss+xml" />
+	<link>/journal/starting-afresh/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Fri, 04 Dec 2015 10:41:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>By: New digs &#124; In Thy Light</title>
+		<link>/journal/starting-afresh/#comment-8</link>
+		<dc:creator><![CDATA[New digs &#124; In Thy Light]]></dc:creator>
+		<pubDate>Tue, 30 Apr 2013 13:27:17 +0000</pubDate>
+		<guid isPermaLink="false">http://dedeo.tk/?p=31#comment-8</guid>
+		<description><![CDATA[[...] Thy Light is “starting afresh” with a new home, a new name, and a new look on a new, adware-free server: deDeo.org. Please [...]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Thy Light is “starting afresh” with a new home, a new name, and a new look on a new, adware-free server: deDeo.org. Please [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

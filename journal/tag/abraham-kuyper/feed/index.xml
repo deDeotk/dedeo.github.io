@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Abraham Kuyper &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/abraham-kuyper/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>An excellent review of Bratt’s new biography of Kuyper</title>
+		<link>/journal/an-excellent-review-of-bratts-new-biography-of-kuyper/</link>
+		<comments>/journal/an-excellent-review-of-bratts-new-biography-of-kuyper/#respond</comments>
+		<pubDate>Wed, 31 Jul 2013 18:50:05 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Dies und Das]]></category>
+		<category><![CDATA[Abraham Kuyper]]></category>
+		<category><![CDATA[neo-Calvinism]]></category>
+		<category><![CDATA[social ethics]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=234</guid>
+		<description><![CDATA[Davey Hendrickson wrote an excellent review of Professor Bratt’s new biography of Abraham Kuyper.]]></description>
+				<content:encoded><![CDATA[<p>Davey Hendrickson <a href="http://www.cardus.ca/comment/article/4000/can-these-bones-live-unexpected-lessons-from-the-life-of-kuyper/">wrote an excellent review</a> of Professor Bratt’s new biography of Abraham Kuyper.</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/an-excellent-review-of-bratts-new-biography-of-kuyper/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

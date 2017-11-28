@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>heresy &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/heresy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>The weightiness of errors concerning God</title>
+		<link>/journal/the-weightiness-of-errors-concerning-god/</link>
+		<comments>/journal/the-weightiness-of-errors-concerning-god/#respond</comments>
+		<pubDate>Wed, 08 May 2013 16:44:10 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Quotables]]></category>
+		<category><![CDATA[sacra doctrina]]></category>
+		<category><![CDATA[God]]></category>
+		<category><![CDATA[heresy]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=74</guid>
+		<description><![CDATA[In reflecting on James 1:16 Thomas Manton (1620–1677) states trenchantly what is at stake when a man errs in his understanding of God: the whole of praxis or ethics. Take in the weightiness of the matter. Ah! would you err in this point, in a business that doth so deeply intrench upon the honour of God? The &#8230; <p class="link-more"><a href="/journal/the-weightiness-of-errors-concerning-god/" class="more-link">Continue reading<span class="screen-reader-text"> "The weightiness of errors concerning God"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p>In reflecting on James 1:16 <a title="View Thomas Manton at the Post-Reformation Digital Library" href="http://prdl.org/author_view.php?a_id=405">Thomas Manton</a> (1620–1677) states trenchantly what is at stake when a man errs in his understanding of God: the whole of <em>praxis</em> or ethics.</p>
+<blockquote><p>Take in the weightiness of the matter. Ah! would you err in this point, in a business that doth so deeply intrench upon the honour of God? The mistake being so dangerous, he is the more earnest. Oh! do not err. The note is, that errors about the nature of God are very dangerous. There is nothing more natural to us than to have ill thoughts of God, and nothing more dangerous; all practice dependeth upon it, to keep the glory of God unstained in your apprehensions. You shall see, Rom. i. 23, 24, ‘They changed the glory of God,’ &amp;c., and then ‘God gave them up to uncleanness.’ Idolatry is often expressed by whoredom; bodily and spiritual uncleanness usually go together: ill thoughts of God debauch the spirit, and make men lose their sense and care of piety. Well, then, take heed of erring this error: let not the nature or glory of God be blemished in your thoughts; abhor whatever cometh into your mind, or may be suggested by others, if it tend any way to abate your esteem of God, or to eclipse the divine glory in your apprehensions.</p></blockquote>
+<p style="text-align: right;">—<em>A Practical Exposition of James </em>s.v. James 1:16, <a href="http://archive.org/stream/practi00mant#page/n145/mode/2up">Obs. 4</a></p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/the-weightiness-of-errors-concerning-god/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

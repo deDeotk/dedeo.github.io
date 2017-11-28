@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>writing &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/writing/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>Truth, style, and the secret of writing</title>
+		<link>/journal/truth-style-and-the-secret-of-writing/</link>
+		<comments>/journal/truth-style-and-the-secret-of-writing/#respond</comments>
+		<pubDate>Mon, 08 Jun 2015 15:44:38 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Dies und Das]]></category>
+		<category><![CDATA[philosophia]]></category>
+		<category><![CDATA[Quotables]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=1078</guid>
+		<description><![CDATA[The qualities of style may be set out under as many headings as you will; but they can all be contained, I think, in these three words: truth, individuality, and simplicity; unless you prefer to sum it all up in a single formula; one must write truly. A style is true when it corresponds to a &#8230; <p class="link-more"><a href="/journal/truth-style-and-the-secret-of-writing/" class="more-link">Continue reading<span class="screen-reader-text"> "Truth, style, and the secret of writing"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<figure id="attachment_994" style="max-width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
+<blockquote><p>The qualities of style may be set out under as many headings as you will; but they can all be contained, I think, in these three words: truth, individuality, and simplicity; unless you prefer to sum it all up in a single formula; one must write <em>truly.</em></p>
+<p>A style is true when it corresponds to a necessity of thought and when it keeps intimate contact with things.</p>
+<p>[&#8230;]</p>
+<p>Thinking is conceiving what is; writing truly, that is writing according to one&#8217;s thought, is revealing what is, not stringing sentences together. And so the secret of writing is to stand and study things ardently, until they speak to you and themselves determine their own expression.</p></blockquote>
+<p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 202–04.</span></p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/truth-style-and-the-secret-of-writing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

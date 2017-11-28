@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ad fontes &#8211; de Deo</title>
+	<atom:link href="http://localhost/journal/tag/ad-fontes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>“In Thy light we see light”</description>
+	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9</generator>
+	<item>
+		<title>ad fontes: discontent with summaries</title>
+		<link>/journal/ad-fontes-discontent-with-summaries/</link>
+		<comments>/journal/ad-fontes-discontent-with-summaries/#respond</comments>
+		<pubDate>Mon, 01 Jul 2013 22:10:21 +0000</pubDate>
+		<dc:creator><![CDATA[lo]]></dc:creator>
+				<category><![CDATA[Quotables]]></category>
+		<category><![CDATA[sacra doctrina]]></category>
+		<category><![CDATA[ad fontes]]></category>
+		<category><![CDATA[historical theology]]></category>
+		<category><![CDATA[Thomas Aquinas]]></category>
+
+		<guid isPermaLink="false">http://dedeo.tk/?p=174</guid>
+		<description><![CDATA[Commenting on the significance of the Catena Aurea J. P. Torrell explains how Thomas kept it real by going back to the sources. But for our knowledge of Thomas it is even more interesting that the person whom we willingly regard as the archetype of the metaphysician and speculative theologian, “[also] has a place of &#8230; <p class="link-more"><a href="/journal/ad-fontes-discontent-with-summaries/" class="more-link">Continue reading<span class="screen-reader-text"> "ad fontes: discontent with summaries"</span></a></p>]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-170" alt="J. P. Torrell" src="/wp-content/uploads/2013/06/Torrell.jpg" width="216" height="274" />Commenting on the significance of the <em>Catena Aurea</em> J. P. Torrell explains how Thomas kept it real by going back to the sources.</p>
+<blockquote><p>But for our knowledge of Thomas it is even more interesting that the person whom we willingly regard as the archetype of the metaphysician and speculative theologian, “[also] has a place of the first order in the history of positive and patristic theology. . . .”</p>
+<p>A notable fact: Thomas, along with Albert, his master, from whom he no doubt learned this habit, belonged to that rare category of authors who are not content with <em>florilegia</em> and frequently have direct recourse to the sources.</p></blockquote>
+<p style="text-align: right;">—<em>Saint Thomas Aquinas</em>, vol. 1, <em>The Person and His Work</em>, rev. ed.,<br />
+trans. Robert Royal (Washington D.C.: The Catholic University of America Press, 2005),<br />
+139 (quoting C. Spicq<em>, Esquisse</em>, 310), 140.</p>
+<p style="text-align: left;">Historians are not quick to compliment theologians in such ways. And indeed theologians are often not worthy of such compliments. Would that we who dare to ply our trade at sacred doctrine in today’s Reformed catholic tradition—whether as students or teachers, and no matter how slow our pace—would be found walking the path of true freedom and true scholarship known as <em>ad fontes</em>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/journal/ad-fontes-discontent-with-summaries/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
