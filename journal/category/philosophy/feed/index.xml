@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/category/philosophy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -99,7 +99,6 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 		<item>
 		<title>On not playing the “anything you can do, I can do meta” game</title>
 		<link>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/</link>
-		<comments>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/#respond</comments>
 		<pubDate>Thu, 17 Mar 2016 17:50:56 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -112,13 +111,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 				<content:encoded><![CDATA[<p><a href="http://undergroundthomist.org/peter-rabbit">http://undergroundthomist.org/peter-rabbit</a></p>
 <p>Keep it real.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Calling a spade</title>
 		<link>/journal/calling-a-spade/</link>
-		<comments>/journal/calling-a-spade/#respond</comments>
 		<pubDate>Thu, 10 Mar 2016 21:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -135,13 +131,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 </p></blockquote>
 <p>D. Q. McInerny, “Dishonest Language,” in <em>Perennial Wisdom for Daily Life</em>, vol. 1 (Elmhurst, PA: The Priestly Fraternity of Saint Peter, 2002), 6.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/calling-a-spade/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Goudriaan on Reformed philosophy</title>
 		<link>/journal/goudriaan-on-reformed-philosophy/</link>
-		<comments>/journal/goudriaan-on-reformed-philosophy/#respond</comments>
 		<pubDate>Sat, 27 Feb 2016 16:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -182,13 +175,10 @@ This mouthful of a term, see Richard A. Muller, “‘Duplex Cognitio Dei’ in 
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/goudriaan-on-reformed-philosophy/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>cor legis naturalis</title>
 		<link>/journal/cor-legis-naturalis/</link>
-		<comments>/journal/cor-legis-naturalis/#respond</comments>
 		<pubDate>Thu, 25 Feb 2016 20:11:39 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -206,13 +196,10 @@ This mouthful of a term, see Richard A. Muller, “‘Duplex Cognitio Dei’ in 
 </p></blockquote>
 <p style="text-align: right; font-size:.8em;">— <a href="https://www.wscal.edu/academics/faculty/david-m-vandrunen">David VanDrunen</a>, “Natural Law for Reformed Theology,”<br /><cite>Journal of Reformed Theology</cite> 9, no. 2 (2015): 120.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/cor-legis-naturalis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Walgrave on the theology-philosophy relation in Aquinas</title>
 		<link>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/</link>
-		<comments>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/#respond</comments>
 		<pubDate>Thu, 04 Feb 2016 23:53:15 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -238,13 +225,10 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Voetius on metaphysics</title>
 		<link>/journal/voetius-on-metaphysics/</link>
-		<comments>/journal/voetius-on-metaphysics/#respond</comments>
 		<pubDate>Wed, 03 Feb 2016 02:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -262,13 +246,10 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 <p>&#8230;a theologian is no more able to forego metaphysics and logic than a carpenter a hammer or a soldier weapons.</p></blockquote>
 <p style="text-align: left; font-size: .8em;">Gisbertus Voetius, <em><a href="https://books.google.com/books?id=KxYVAAAAQAAJ&amp;pg=PA26#v=onepage&amp;q&amp;f=false">Exercitia et bibliotheca studiosi theologiae</a></em>, 2nd ed. (Utrecht, 1651), 26; cf. Aza Goudriaan, “Theology and Philosophy,” in <em>A Companion to Reformed Orthodoxy</em>, ed. Herman J. Selderhuis (Leiden: Brill, 2013), 27–63 (translation at p. 33; altered). Full sentence: <em>Ad accuratos, distinctos, &amp; evidentes conceptus tam anascevastice quam catascevastice in Theologia dogmatica &amp; practica, adhaec in explicatione scriptura formandos, ad proprias meditationes ampliandas, &amp; ad alienas diiudicandas non magis metaphysica &amp; logica carere potest Theologus quam faber malleo, aut miles armis.</em></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/voetius-on-metaphysics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>A trove of digitized Garrigou-Lagrange texts</title>
 		<link>/journal/a-trove-of-digitized-garrigou-lagrange-texts/</link>
-		<comments>/journal/a-trove-of-digitized-garrigou-lagrange-texts/#respond</comments>
 		<pubDate>Tue, 19 Jan 2016 00:56:48 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -283,8 +264,6 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 				<content:encoded><![CDATA[<p><a href="http://thomistica.net/news/2016/1/6/a-trove-of-digitized-garrigou-lagrange-texts">Digitized Anglophone corpus</a> of Garrigou-Lagrange, one of the sharpest of the twentieth-century Thomists.</p>
 <p>Particularly noteworthy: the two-volume (<a href="https://archive.org/stream/Garrigou-LagrangeEnglish/God_%20His%20Existence%20and%20His%20Nature%20%28vol.%201%29%20-%20Garrigou-Lagrange%2C%20Reginald%2C%20O.P_">1</a>, <a href="https://archive.org/stream/Garrigou-LagrangeEnglish/God_%20His%20Existence%20and%20His%20Nature%20%28vol.%202%29%20-%20Garrigou-Lagrange%2C%20Reginald%2C%20O.P_">2</a>) treatise on natural theology was difficult and expensive to obtain in English translation previously.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-trove-of-digitized-garrigou-lagrange-texts/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/geerhardus-vos/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Herman Bavinck’s Formulation of the pactum salutis</title>
 		<link>/journal/herman-bavincks-formulation-pactum-salutis/</link>
-		<comments>/journal/herman-bavincks-formulation-pactum-salutis/#respond</comments>
 		<pubDate>Tue, 27 Aug 2013 14:15:17 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -36,8 +35,6 @@
 				<content:encoded><![CDATA[<p><a href="http://marsbooksonline.com/index.php?l=product_detail&amp;p=123"><img class="alignright size-full wp-image-295" alt="Mid-America Journal of Theology, vol. 22" src="/wp-content/uploads/2013/08/MAJT22.jpg" width="162" height="250" /></a>Laurence O’Donnell, “<a href="/wp-content/uploads/2013/08/ODonnell-Laurence-Bavinck-on-the-pactum-salutis.pdf">Not Subtle Enough: An Assessment of Modern Scholarship on Herman Bavinck’s Reformulation of the <em>Pactum Salutis</em> Contra ‘Scholastic Subtlety</a>,’” <em>Mid-America Journal of Theology</em> 22 (2011): 89–106.</p>
 <p>In this primarily historical essay I analyze Herman Bavinck’s (1854–1921) dogmatic formulation (or, more accurately, attempted <em>re</em>-formulation) of the <em>pactum salutis</em> or covenant of redemption in light of the allegation that Bavinck is to blame for subsequent, extreme, “ontologizing” formulations of the doctrine that arose among Dutch Reformed theologians after Bavinck. Based on an analysis of the dogmatic context and content of Bavinck’s formulation together with a survey of his usages of the doctrine, I argue that the allegation is unsound and invalid insofar as it ignores the standard Reformed orthodox trinitarian distinctions that Bavinck employs to distinguish God’s being per se from his work of redemption. In his thought the <em>pactum salutis</em> is the apex not of the former but of the latter.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/herman-bavincks-formulation-pactum-salutis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

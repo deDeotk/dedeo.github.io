@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/aseity/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>The practical implication of God being ens a se</title>
 		<link>/journal/the-practical-implication-of-god-being-ens-a-se/</link>
-		<comments>/journal/the-practical-implication-of-god-being-ens-a-se/#respond</comments>
 		<pubDate>Wed, 25 Mar 2015 21:41:41 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -36,8 +35,6 @@
 <p style="text-align: right; font-size: .8em;">—Fr. Walter Farrell O.P., <a href="http://opcentral.org/resources/a-companion-to-the-summa/"><em>A Companion to the </em>Summa</a><br />
 (New York: Sheed &amp; Ward, 1945), <a href="http://opcentral.org/resources/existence-of-god/">1:46</a>; commenting on Aquinas, <em>ST</em> 1.2.3.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-practical-implication-of-god-being-ens-a-se/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

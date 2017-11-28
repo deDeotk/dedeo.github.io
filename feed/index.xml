@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -136,7 +136,6 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 		<item>
 		<title>Ellebogius: “When in doubt . . .”</title>
 		<link>/journal/ellebogius-when-in-doubt/</link>
-		<comments>/journal/ellebogius-when-in-doubt/#respond</comments>
 		<pubDate>Mon, 21 Mar 2016 20:11:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -148,13 +147,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 </p></blockquote>
 <p>— Cornelius Ellebogius</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/ellebogius-when-in-doubt/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>On not playing the “anything you can do, I can do meta” game</title>
 		<link>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/</link>
-		<comments>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/#respond</comments>
 		<pubDate>Thu, 17 Mar 2016 17:50:56 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -167,13 +163,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 				<content:encoded><![CDATA[<p><a href="http://undergroundthomist.org/peter-rabbit">http://undergroundthomist.org/peter-rabbit</a></p>
 <p>Keep it real.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Calling a spade</title>
 		<link>/journal/calling-a-spade/</link>
-		<comments>/journal/calling-a-spade/#respond</comments>
 		<pubDate>Thu, 10 Mar 2016 21:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -190,13 +183,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 </p></blockquote>
 <p>D. Q. McInerny, “Dishonest Language,” in <em>Perennial Wisdom for Daily Life</em>, vol. 1 (Elmhurst, PA: The Priestly Fraternity of Saint Peter, 2002), 6.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/calling-a-spade/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Glossa ordinaria project</title>
 		<link>/journal/glossa-ordinaria-project/</link>
-		<comments>/journal/glossa-ordinaria-project/#respond</comments>
 		<pubDate>Mon, 07 Mar 2016 19:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -212,13 +202,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 <p>  In order to rectify this deficiency, the series proposes carefully to edit the Latin text of each book (and, indeed, of each version) of the Gloss.
 </p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/glossa-ordinaria-project/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Goudriaan on Reformed philosophy</title>
 		<link>/journal/goudriaan-on-reformed-philosophy/</link>
-		<comments>/journal/goudriaan-on-reformed-philosophy/#respond</comments>
 		<pubDate>Sat, 27 Feb 2016 16:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -259,8 +246,6 @@ This mouthful of a term, see Richard A. Muller, “‘Duplex Cognitio Dei’ in 
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/goudriaan-on-reformed-philosophy/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/synopsis-purioris/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Reformed theology: natural and supernatural</title>
 		<link>/journal/reformed-theology-natural-and-supernatural/</link>
-		<comments>/journal/reformed-theology-natural-and-supernatural/#respond</comments>
 		<pubDate>Tue, 03 Feb 2015 10:00:19 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -39,8 +38,6 @@
 <p style="text-align: right; font-size: .8em;">—<em><a href="http://www.brill.com/products/book/synopsis-purioris-theologiae-synopsis-purer-theology">Synopsis of a Purer Theology</a>: Latin Text and English Translation</em>, vol. 1, <em>Disputations 1–23</em>,<br />
 ed. Dolf te Velde, trans. Riemer A. Faber (Leiden: Brill, 2015), 35.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/reformed-theology-natural-and-supernatural/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

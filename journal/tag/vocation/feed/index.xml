@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/vocation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Be yourself: “You have a part that only you can play, and your business is to play it to perfection.”</title>
 		<link>/journal/be-yourself-you-have-a-part-that-only-you-can-play-and-your-business-is-to-play-it-to-perfection/</link>
-		<comments>/journal/be-yourself-you-have-a-part-that-only-you-can-play-and-your-business-is-to-play-it-to-perfection/#respond</comments>
 		<pubDate>Mon, 18 May 2015 18:10:42 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -34,8 +33,6 @@
 <p>What wisdom and what virtue there is in judging oneself truly and in remaining oneself! You have a part that only you can play; and your business is to play it to perfection, instead of trying to force fortune. Our lives are not interchangeable. Equally by aiming too high and by falling too low, one misses the path to the goal. Go straight ahead, in your own way, with God for guide.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 28.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/be-yourself-you-have-a-part-that-only-you-can-play-and-your-business-is-to-play-it-to-perfection/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

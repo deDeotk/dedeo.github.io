@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/deaconate/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Tour of Churches</title>
 		<link>/journal/tour-of-churches/</link>
-		<comments>/journal/tour-of-churches/#respond</comments>
 		<pubDate>Mon, 08 Jul 2013 11:00:11 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -34,8 +33,6 @@
 <p>I wonder what a similar tour of churches around my city (and to bring it home, a tour of NAPARC-variety churches—yea, a tour of my church) would reveal about the degree of care for the local community exhibited by Christians.</p>
 <p>Perhaps some meditation upon Matthew 5:16 is in order. To use <a href="http://www.ccel.org/ccel/calvin/calcom31.ix.xlii.html">Calvin’s commentary</a> as a prod for reflection: do I regulate my life (including my social ethic) so as &#8220;to excite all to glorify God.&#8221;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/tour-of-churches/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

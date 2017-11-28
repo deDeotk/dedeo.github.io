@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/john-owen/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>The Holy Spirit’s Role in John Owen’s “Covenant of the Mediator” Formulation</title>
 		<link>/journal/the-holy-spirits-role-in-john-owens-covenant-of-the-mediator-formulation/</link>
-		<comments>/journal/the-holy-spirits-role-in-john-owens-covenant-of-the-mediator-formulation/#respond</comments>
 		<pubDate>Mon, 03 Jun 2013 16:43:58 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -36,8 +35,6 @@
 				<content:encoded><![CDATA[<p><a href="http://puritanseminary.org/publications-2/prj-archive/"><img class="alignright size-full wp-image-147" alt="PRJ-2012_1" src="/wp-content/uploads/2013/06/PRJ-2012_1.jpg" width="175" height="270" /></a>The <em>Puritan Reformed Journal</em> <a href="http://puritanseminary.org/publications-2/prj-archive/">has published its past issues</a> in downloadable PDF and e-reader formats. Hence my historical essay on Owen’s formulation of the <em>pactum salutis</em> is now freely available:</p>
 <p>“<a href="/wp-content/uploads/2013/06/ODonnell-PRJ-2012.1.pdf">The Holy Spirit’s Role in John Owen’s ‘Covenant of the Mediator’ Formulation: A Case Study in Reformed Orthodox Formulations of the <em>Pactum Salutis</em></a>,” <em>Puritan Reformed Journal </em>4, no. 1 (2012): 91–115.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-holy-spirits-role-in-john-owens-covenant-of-the-mediator-formulation/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

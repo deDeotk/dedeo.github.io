@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/islamics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Free Brill Islamics Articles</title>
 		<link>/journal/free-brill-islamics-articles/</link>
-		<comments>/journal/free-brill-islamics-articles/#respond</comments>
 		<pubDate>Wed, 19 Nov 2014 03:10:34 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -30,8 +29,6 @@
 		<description><![CDATA[HT: Tabsir. Some good articles here. . . .]]></description>
 				<content:encoded><![CDATA[<p>HT: <a href="http://tabsir.net/?p=2526">Tabsir</a>. Some good articles here. . . .</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/free-brill-islamics-articles/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

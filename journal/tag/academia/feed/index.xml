@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/academia/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Review of Sertillanges’s The Intellectual Life</title>
 		<link>/journal/review-of-sertillangess-the-intellectual-life/</link>
-		<comments>/journal/review-of-sertillangess-the-intellectual-life/#respond</comments>
 		<pubDate>Thu, 25 Jun 2015 23:21:21 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -34,13 +33,10 @@
 <p>For those of us who come from family heritages rooted deeply (and proudly) in the <em>artes serviles, </em>I think it is not only fair to say but also <em>needs</em> to be said that<i> </i>choosing an intellectual vocation without the benefit of a father or other trusted guide who well knows the way to and the way of life within the <em>artes liberales</em> is fraught with all the dangers of the blind leading the blind on a bushwhack through Amazon. If one’s hindsight can benefit another’s foresight, let me say without hesitation: you <em>need</em> a guide for living an intellectual life; the “how to” part of this life does not just magically come down from heaven; it is acquired not infused knowledge.</p>
 <p>He who dares walk through the dark jungle, then, and who sees the wisdom of consulting an experienced guide who carries a sharp machete and a bright torch will not be disappointed in perusing <a href="https://calvinistinternational.com/2015/06/25/live-truth-sertillangess-intellectual-life/">Sertillanges’s classic meditation</a> on St. Thomas’s “<a href="http://dhspriory.org/thomas/DearJohn.htm">Letter of Thomas Aquinas to Brother John on How to Study</a>.”</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/review-of-sertillangess-the-intellectual-life/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Read less, read better</title>
 		<link>/journal/what-to-read/</link>
-		<comments>/journal/what-to-read/#respond</comments>
 		<pubDate>Wed, 27 May 2015 20:18:10 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -58,13 +54,10 @@
 . . . love the eternal books that express eternal truths.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 150–51.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/what-to-read/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Giving Thanks for Calvin Seminary’s PhD Program</title>
 		<link>/journal/giving-thanks-calvin-seminarys-phd-program/</link>
-		<comments>/journal/giving-thanks-calvin-seminarys-phd-program/#respond</comments>
 		<pubDate>Tue, 03 Dec 2013 22:19:47 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -93,13 +86,10 @@
 <p>While I stare down the still long, windy way to the PhD marathon’s finish line, it is an encouragement to be reminded along the way not only that the sowing in tears is designed to yield harvests of joy in due time but also that over the past two decades the Lord God has manifestly blessed this program with exceptional teachers whose living epistles are blessing Christ’s bride all over the world.</p>
 <p><a href="http://calvinseminary.edu/2013/10/11/phd-celebration-2013/"><img class="aligncenter size-full wp-image-443" alt="CTS PhD Celebration 2013" src="https://dash.dedeo.tk/wp-content/uploads/CTS_phd_celebration.png" width="700" height="223" /></a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/giving-thanks-calvin-seminarys-phd-program/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>regula sophia</title>
 		<link>/journal/regula-sophia/</link>
-		<comments>/journal/regula-sophia/#respond</comments>
 		<pubDate>Wed, 01 May 2013 09:00:43 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -112,8 +102,6 @@
 		<description><![CDATA[Pondering how different my academic life would be were I first to believe without wavering and then to regulate strictly my pursuit of wisdom according to James&#8217;s rule in James 3:13-18.]]></description>
 				<content:encoded><![CDATA[<p>Pondering how different my academic life would be were I first to believe without wavering and then to regulate strictly my pursuit of wisdom according to James&#8217;s rule in <a href="http://www.esvbible.org/James+3%3A13-18/">James 3:13-18</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/regula-sophia/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

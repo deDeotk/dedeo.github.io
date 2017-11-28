@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/christian-muslim-relations/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Père Etienne Renaud</title>
 		<link>/journal/pere-etienne-renaud/</link>
-		<comments>/journal/pere-etienne-renaud/#respond</comments>
 		<pubDate>Wed, 04 Sep 2013 14:58:07 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -38,13 +37,10 @@
 <p>Finally, his encouragement to walk the gospel’s “knife edge” fosters a healthy, realistic missiological perspective on Islam over against idealistic dreams or skeptical rants:</p>
 <blockquote><p>In this we must not be naïve or nurse any illusions, underestimating the difficulties of the encounter. I believe on the contrary that we need to look them straight in the face and that irenicism does not pay. But on the other hand, let us take care not to sink into scepticism and cynicism. The Gospel invites us to remain on a knife-edge: “Wise as serpents and innocent as doves.” To be both realistic and evangelical at the same time: two words which apparently are opposed to one another, but isn’t the Gospel a realism of a higher order, the only one which lasts from the viewpoint of eternity?</p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/pere-etienne-renaud/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Pope Francis’s Message to Muslims</title>
 		<link>/journal/pope-franciss-message-to-muslims/</link>
-		<comments>/journal/pope-franciss-message-to-muslims/#respond</comments>
 		<pubDate>Tue, 20 Aug 2013 12:10:13 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -62,8 +58,6 @@
 <p>Certainly one distinction does not world peace make. Nevertheless, for Christians courageous enough to pursue the path of social-ethical virtue <em>with</em> the other, Pope Francis’s distinction provides an important roadsign on the path of peace. Not only the streets of Egypt and Iraq but also the streets of my fair city—sunny Orlando—need such virtue now more than ever.</p>
 <p>It is always easier to thank God that I am not like the other than to love the other as myself. Christians, more than any other people, ought to be the first to choose the higher way, the way of love that patiently bears with the other.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/pope-franciss-message-to-muslims/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

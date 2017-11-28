@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/category/miscellaneous/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Ellebogius: “When in doubt . . .”</title>
 		<link>/journal/ellebogius-when-in-doubt/</link>
-		<comments>/journal/ellebogius-when-in-doubt/#respond</comments>
 		<pubDate>Mon, 21 Mar 2016 20:11:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -32,13 +31,10 @@
 </p></blockquote>
 <p>— Cornelius Ellebogius</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/ellebogius-when-in-doubt/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Glossa ordinaria project</title>
 		<link>/journal/glossa-ordinaria-project/</link>
-		<comments>/journal/glossa-ordinaria-project/#respond</comments>
 		<pubDate>Mon, 07 Mar 2016 19:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -54,13 +50,10 @@
 <p>  In order to rectify this deficiency, the series proposes carefully to edit the Latin text of each book (and, indeed, of each version) of the Gloss.
 </p></blockquote>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/glossa-ordinaria-project/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Olgiati on the synthetic whole</title>
 		<link>/journal/olgiati-on-the-synthetic-whole/</link>
-		<comments>/journal/olgiati-on-the-synthetic-whole/#respond</comments>
 		<pubDate>Thu, 18 Feb 2016 15:04:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -98,9 +91,7 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/olgiati-on-the-synthetic-whole/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The five stages of CTS PhD comprehensives (part 1)</title>
 		<link>/journal/the-five-stages-of-cts-phd-comprehensives-part-1/</link>
@@ -148,7 +139,6 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 		<item>
 		<title>Steinmetz: “What Luther Got Wrong” about Aquinas</title>
 		<link>/journal/steinmetz-what-luther-got-wrong-about-aquinas/</link>
-		<comments>/journal/steinmetz-what-luther-got-wrong-about-aquinas/#respond</comments>
 		<pubDate>Wed, 11 Nov 2015 23:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -163,13 +153,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 				<content:encoded><![CDATA[<blockquote><p><a href="http://divinity.duke.edu/academics/faculty/david-steinmetz"><img class="alignright size-full wp-image-1278" src="/wp-content/uploads/2015/11/DavidSteinmetz.jpg" alt="DavidSteinmetz" width="90" height="120" /></a>It would be too much to assume that Aquinas will ever be as central a theologian for Protestants as he has been for Catholics. But Protestants have begun to put an end to their own self-imposed impoverishment. They have opened the ranks of the theologians with whom they are in regular conversation to include Aquinas. It is a development long overdue.</p></blockquote>
 <p>—Professor Emeritus David C. Steinmetz, “<a href="http://www.religion-online.org/showarticle.asp?title=3267">What Luther Got Wrong</a>” (repr. from <em>Christian Century</em>, August 23, 2005, pp. 23, 25)</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/steinmetz-what-luther-got-wrong-about-aquinas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Richard Muller lecturing this Friday: “Calvinist Thomism Revisited: William Ames (1576–1633) and the Divine Ideas”</title>
 		<link>/journal/richard-muller-lecturing-this-friday-calvinist-thomism-revisited-william-ames-1576-1633-and-the-divine-ideas/</link>
-		<comments>/journal/richard-muller-lecturing-this-friday-calvinist-thomism-revisited-william-ames-1576-1633-and-the-divine-ideas/#respond</comments>
 		<pubDate>Tue, 10 Nov 2015 15:47:08 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -186,13 +173,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 <strong>Live stream:</strong> <a href="https://www.youtube.com/watch?v=6PVCdOEtS6Y" target="_blank">https://www.youtube.com/watch?v=6PVCdOEtS6Y</a></p>
 <p>Via the <a href="http://www.juniusinstitute.org/blog/junius-institute-colloquium-schedule-for-fall-2015/" target="_blank">Junius Institute</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/richard-muller-lecturing-this-friday-calvinist-thomism-revisited-william-ames-1576-1633-and-the-divine-ideas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>A Thanksgiving for American Independence</title>
 		<link>/journal/a-thanksgiving-for-american-independence/</link>
-		<comments>/journal/a-thanksgiving-for-american-independence/#respond</comments>
 		<pubDate>Sat, 04 Jul 2015 11:14:36 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -205,13 +189,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 				<content:encoded><![CDATA[<blockquote><p><img class="alignright size-full wp-image-1112" src="/wp-content/uploads/2015/07/Flag_of_the_United_States.png" alt="Flag_of_the_United_States" width="300" height="158" />Almighty God, who hast made of one blood all nations of men to dwell on all the face of the earth, and hast determined the times before appointed, and the bounds of their habitation; We yield thee our unfeigned thanks and praise for the wonderful and mighty deliverance whereby thou didst raise up the people of these States from dependence and distress to a name and a place among the nations, and give to them this good land for an inheritance. Not by our might or for our merit, but of thy goodness and through thy power and providence we are what we are this day before thee; and therefore not unto us, O Lord, not unto us, but unto thy name be ascribed all honor and glory, from generation to generation; through Jesus Christ our Lord. <em>Amen</em>.</p></blockquote>
 <p style="text-align: right;"><a href="https://books.google.com/books?id=F2dAAQAAMAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false"><em>The Book of Common Prayer as Amended by the Westminster Divines, A. D. 1661</em></a>, ed. Charles W. Shields (Philadelphia: James Claxton, 1867), 351–52.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-thanksgiving-for-american-independence/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Translations of Aquinas’s Job commentary, Sentences commentary moving along</title>
 		<link>/journal/translations-of-aquinass-job-commentary-sentences-commentary-moving-along/</link>
-		<comments>/journal/translations-of-aquinass-job-commentary-sentences-commentary-moving-along/#respond</comments>
 		<pubDate>Mon, 08 Jun 2015 21:54:06 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -222,13 +203,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 				<content:encoded><![CDATA[<p><a href="http://thomistica.net/news/2015/5/14/bilingual-latinenglish-hardcover-editions-of-aquinas-update">http://thomistica.net/news/2015/5/14/bilingual-latinenglish-hardcover-editions-of-aquinas-update</a></p>
 <p>These high quality hardbacks are excellent<em> </em>Latin-English editions of Thomas’s works. Looking forward to the next arrivals in this prestigious publishing project.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/translations-of-aquinass-job-commentary-sentences-commentary-moving-along/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Truth, style, and the secret of writing</title>
 		<link>/journal/truth-style-and-the-secret-of-writing/</link>
-		<comments>/journal/truth-style-and-the-secret-of-writing/#respond</comments>
 		<pubDate>Mon, 08 Jun 2015 15:44:38 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -245,13 +223,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 <p>Thinking is conceiving what is; writing truly, that is writing according to one&#8217;s thought, is revealing what is, not stringing sentences together. And so the secret of writing is to stand and study things ardently, until they speak to you and themselves determine their own expression.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 202–04.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/truth-style-and-the-secret-of-writing/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Read less, read better</title>
 		<link>/journal/what-to-read/</link>
-		<comments>/journal/what-to-read/#respond</comments>
 		<pubDate>Wed, 27 May 2015 20:18:10 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -269,8 +244,6 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 . . . love the eternal books that express eternal truths.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 150–51.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/what-to-read/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

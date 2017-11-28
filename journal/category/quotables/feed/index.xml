@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/category/quotables/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -118,7 +118,6 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 		<item>
 		<title>Calling a spade</title>
 		<link>/journal/calling-a-spade/</link>
-		<comments>/journal/calling-a-spade/#respond</comments>
 		<pubDate>Thu, 10 Mar 2016 21:54:16 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -135,13 +134,10 @@ Vol. 1, <em>Prolegomena</em>, trans. John Vriend, ed. John Bolt (Grand Rapids: B
 </p></blockquote>
 <p>D. Q. McInerny, “Dishonest Language,” in <em>Perennial Wisdom for Daily Life</em>, vol. 1 (Elmhurst, PA: The Priestly Fraternity of Saint Peter, 2002), 6.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/calling-a-spade/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Goudriaan on Reformed philosophy</title>
 		<link>/journal/goudriaan-on-reformed-philosophy/</link>
-		<comments>/journal/goudriaan-on-reformed-philosophy/#respond</comments>
 		<pubDate>Sat, 27 Feb 2016 16:07:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -182,13 +178,10 @@ This mouthful of a term, see Richard A. Muller, “‘Duplex Cognitio Dei’ in 
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/goudriaan-on-reformed-philosophy/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>cor legis naturalis</title>
 		<link>/journal/cor-legis-naturalis/</link>
-		<comments>/journal/cor-legis-naturalis/#respond</comments>
 		<pubDate>Thu, 25 Feb 2016 20:11:39 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -206,13 +199,10 @@ This mouthful of a term, see Richard A. Muller, “‘Duplex Cognitio Dei’ in 
 </p></blockquote>
 <p style="text-align: right; font-size:.8em;">— <a href="https://www.wscal.edu/academics/faculty/david-m-vandrunen">David VanDrunen</a>, “Natural Law for Reformed Theology,”<br /><cite>Journal of Reformed Theology</cite> 9, no. 2 (2015): 120.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/cor-legis-naturalis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Olgiati on the synthetic whole</title>
 		<link>/journal/olgiati-on-the-synthetic-whole/</link>
-		<comments>/journal/olgiati-on-the-synthetic-whole/#respond</comments>
 		<pubDate>Thu, 18 Feb 2016 15:04:14 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -250,13 +240,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/olgiati-on-the-synthetic-whole/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Voetius on metaphysics</title>
 		<link>/journal/voetius-on-metaphysics/</link>
-		<comments>/journal/voetius-on-metaphysics/#respond</comments>
 		<pubDate>Wed, 03 Feb 2016 02:33:45 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -274,13 +261,10 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 <p>&#8230;a theologian is no more able to forego metaphysics and logic than a carpenter a hammer or a soldier weapons.</p></blockquote>
 <p style="text-align: left; font-size: .8em;">Gisbertus Voetius, <em><a href="https://books.google.com/books?id=KxYVAAAAQAAJ&amp;pg=PA26#v=onepage&amp;q&amp;f=false">Exercitia et bibliotheca studiosi theologiae</a></em>, 2nd ed. (Utrecht, 1651), 26; cf. Aza Goudriaan, “Theology and Philosophy,” in <em>A Companion to Reformed Orthodoxy</em>, ed. Herman J. Selderhuis (Leiden: Brill, 2013), 27–63 (translation at p. 33; altered). Full sentence: <em>Ad accuratos, distinctos, &amp; evidentes conceptus tam anascevastice quam catascevastice in Theologia dogmatica &amp; practica, adhaec in explicatione scriptura formandos, ad proprias meditationes ampliandas, &amp; ad alienas diiudicandas non magis metaphysica &amp; logica carere potest Theologus quam faber malleo, aut miles armis.</em></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/voetius-on-metaphysics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Steinmetz: “What Luther Got Wrong” about Aquinas</title>
 		<link>/journal/steinmetz-what-luther-got-wrong-about-aquinas/</link>
-		<comments>/journal/steinmetz-what-luther-got-wrong-about-aquinas/#respond</comments>
 		<pubDate>Wed, 11 Nov 2015 23:02:12 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -295,8 +279,6 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 				<content:encoded><![CDATA[<blockquote><p><a href="http://divinity.duke.edu/academics/faculty/david-steinmetz"><img class="alignright size-full wp-image-1278" src="/wp-content/uploads/2015/11/DavidSteinmetz.jpg" alt="DavidSteinmetz" width="90" height="120" /></a>It would be too much to assume that Aquinas will ever be as central a theologian for Protestants as he has been for Catholics. But Protestants have begun to put an end to their own self-imposed impoverishment. They have opened the ranks of the theologians with whom they are in regular conversation to include Aquinas. It is a development long overdue.</p></blockquote>
 <p>—Professor Emeritus David C. Steinmetz, “<a href="http://www.religion-online.org/showarticle.asp?title=3267">What Luther Got Wrong</a>” (repr. from <em>Christian Century</em>, August 23, 2005, pp. 23, 25)</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/steinmetz-what-luther-got-wrong-about-aquinas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/reading/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Read less, read better</title>
 		<link>/journal/what-to-read/</link>
-		<comments>/journal/what-to-read/#respond</comments>
 		<pubDate>Wed, 27 May 2015 20:18:10 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -38,8 +37,6 @@
 . . . love the eternal books that express eternal truths.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;">Antonin Sertillanges, <cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 150–51.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/what-to-read/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

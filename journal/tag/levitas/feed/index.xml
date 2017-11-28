@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/levitas/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>#nailedit</title>
 		<link>/journal/nailedit/</link>
-		<comments>/journal/nailedit/#respond</comments>
 		<pubDate>Sat, 11 Apr 2015 17:13:05 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -34,13 +33,10 @@ Trending. . . .</p>
 <p>Happy early Reformation Day.</p>
 <p>(And yes, this is the best meme ever. HT: Pranshu.)</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/nailedit/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>one-liners for fellow Irishmen completing tutorials in “that awful German language”</title>
 		<link>/journal/one-liners-fellow-irishmen-completing-tutorials-awful-german-language/</link>
-		<comments>/journal/one-liners-fellow-irishmen-completing-tutorials-awful-german-language/#respond</comments>
 		<pubDate>Thu, 12 Feb 2015 18:16:06 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -53,8 +49,6 @@ Trending. . . .</p>
 <li>The Irishman <em>walked</em> out of the bar.</li>
 </ol>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/one-liners-fellow-irishmen-completing-tutorials-awful-german-language/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

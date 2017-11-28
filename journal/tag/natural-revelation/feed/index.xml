@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/natural-revelation/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>A Westminster Divine on Faith and Reason</title>
 		<link>/journal/westminster-divine-faith-reason/</link>
-		<comments>/journal/westminster-divine-faith-reason/#respond</comments>
 		<pubDate>Thu, 03 Jul 2014 21:22:32 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -39,8 +38,6 @@
 <blockquote><p>when I consider that the spoils of Egypt were by God allowed to enrich Israel, and the spoils of the Gentiles reserved by David for the building of the temple; that a Gentile, by legal purification and marriage, might become an Israelite; that the crown of Rabbah was put upon the head of David, and the sword of Goliath used to slay himself; that the gold, and myrrh, and frankincense of the Wise men of the East, was offered unto the Christ; when I find the apostle convincing the Jews out of their law, and the philosophers out of their maxims; and every gift, as well as every creature of God, is good, and may be sanctified for the use and delight of man;  I then conclude with myself, that the moral and philosophical glass of the human soul may be of some service even unto the tabernacle, as the looking-glasses of the Israelitish women were unto the altar. (6–7)</p></blockquote>
 <p>Both the method and content of the argument displayed in this brief preface—perhaps commonplace in its own time—is worthy of consideration and even emulation in our time, a time in which such wisdom and Reformed catholicity is not so common.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/westminster-divine-faith-reason/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

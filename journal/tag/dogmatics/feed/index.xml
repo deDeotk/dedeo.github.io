@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/dogmatics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Bavinck’s outline of the Reformed Dogmatics</title>
 		<link>/journal/bavincks-outline-of-the-reformed-dogmatics/</link>
-		<comments>/journal/bavincks-outline-of-the-reformed-dogmatics/#respond</comments>
 		<pubDate>Wed, 17 Feb 2016 19:18:01 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -34,13 +33,10 @@
 		<description><![CDATA[https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/]]></description>
 				<content:encoded><![CDATA[<p><a href="https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/">https://bavinckinstitute.org/2016/02/the-outline-of-bavincks-reformed-dogmatics/</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/bavincks-outline-of-the-reformed-dogmatics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Michael Allen on “life after the Hellenization thesis”</title>
 		<link>/journal/michael-allen-life-hellenization-thesis/</link>
-		<comments>/journal/michael-allen-life-hellenization-thesis/#respond</comments>
 		<pubDate>Wed, 22 Oct 2014 19:41:54 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -54,13 +50,10 @@
 		<description><![CDATA[The Promise and Prospects of Retrieval: Recent Developments in the Divine Attributes]]></description>
 				<content:encoded><![CDATA[<p><a href="http://zondervanacademic.com/blog/common-places-the-promise-and-prospects-of-retrieval-recent-developments-in-the-divine-attributes/#citation5">The Promise and Prospects of Retrieval: Recent Developments in the Divine Attributes</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/michael-allen-life-hellenization-thesis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Bavinckiana digitalia: A Review Essay</title>
 		<link>/journal/bavinckiana-digitalia-review-essay/</link>
-		<comments>/journal/bavinckiana-digitalia-review-essay/#respond</comments>
 		<pubDate>Mon, 23 Sep 2013 16:06:19 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Reviews]]></category>
@@ -75,13 +68,10 @@
 				<content:encoded><![CDATA[<p><a href="http://bavinckinstitute.org/review/tbr-4-2013/"><img class="alignright wp-image-406 size-full" src="/wp-content/uploads/2013/09/TBR4_cover.jpg" alt="The Bavinck Review, vol. 4" width="200" height="300" /></a> Laurence O’Donnell, <a href="http://bavinckinstitute.org/wp-content/uploads/2013/07/TBR4_05_ODonnell.pdf"><em>Bavinckiana digitalia</em>: A Review Essay</a>, <em>The Bavinck Review</em> 4 (2013): 51–63.</p>
 <p>In this essay I present the state of the art concerning digital tools for Bavinck studies. I wrote this primarily for two groups of Bavinck scholars: first, the ever-growing number of non-European and non-American readers who might not have immediate access to digital media developed primarily in the West; second, the scholar for whom digital media is not his or her forte but who wishes nevertheless to know what sort of tools are currently available. Additionally, I hope that these reflections spur further development both in software development and in academic institutional development related to Bavinck studies. I suggest that the Bavinck Institute (or, as other have suggested, worldwide Bavinck Institutes) might benefit from modeling its digitization efforts after similar initiatives such as the <a href="http://kuyper.ptsem.edu/">Kuyper Digital Library</a> and the <a href="http://www.ccel.org/">CCEL</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/bavinckiana-digitalia-review-essay/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>A reflection on “ultraism”</title>
 		<link>/journal/a-reflection-on-ultraism/</link>
-		<comments>/journal/a-reflection-on-ultraism/#respond</comments>
 		<pubDate>Tue, 30 Apr 2013 14:00:33 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -111,8 +101,6 @@
 <li><span style="line-height: 15px;"><a href="http://www.wtsbooks.com/princeton-and-the-work-of-the-christian-ministry-james-garretson-9781848711648?utm_source=lodonnell&amp;utm_medium=blogpartners"><img class="alignright  wp-image-81" alt="Princeton and the Work of the Christian Ministry (2 vols.) — James M. Garretson" src="/wp-content/uploads/9781848711648m.png" width="138" height="210" /></a>Sprague’s discourse is included in <a href="http://www.wtsbooks.com/princeton-and-the-work-of-the-christian-ministry-james-garretson-9781848711648?utm_source=lodonnell&amp;utm_medium=blogpartners"><em>Princeton and the Work of the Christian Ministry</em></a>, ed. James M. Garretson.</span></li>
 </ul>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/a-reflection-on-ultraism/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

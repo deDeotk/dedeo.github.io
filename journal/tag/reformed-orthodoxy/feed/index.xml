@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/reformed-orthodoxy/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>cor legis naturalis</title>
 		<link>/journal/cor-legis-naturalis/</link>
-		<comments>/journal/cor-legis-naturalis/#respond</comments>
 		<pubDate>Thu, 25 Feb 2016 20:11:39 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -38,13 +37,10 @@
 </p></blockquote>
 <p style="text-align: right; font-size:.8em;">— <a href="https://www.wscal.edu/academics/faculty/david-m-vandrunen">David VanDrunen</a>, “Natural Law for Reformed Theology,”<br /><cite>Journal of Reformed Theology</cite> 9, no. 2 (2015): 120.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/cor-legis-naturalis/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>Walgrave on the theology-philosophy relation in Aquinas</title>
 		<link>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/</link>
-		<comments>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/#respond</comments>
 		<pubDate>Thu, 04 Feb 2016 23:53:15 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -70,8 +66,6 @@ For example, such sound expansions can be found in Lawrence Dewan, “Faith and
 </ol>
 </div>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/walgrave-on-the-theology-philosophy-relation-in-aquinas/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

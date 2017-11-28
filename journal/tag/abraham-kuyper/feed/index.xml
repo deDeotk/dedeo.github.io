@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/abraham-kuyper/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>An excellent review of Bratt’s new biography of Kuyper</title>
 		<link>/journal/an-excellent-review-of-bratts-new-biography-of-kuyper/</link>
-		<comments>/journal/an-excellent-review-of-bratts-new-biography-of-kuyper/#respond</comments>
 		<pubDate>Wed, 31 Jul 2013 18:50:05 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -32,8 +31,6 @@
 		<description><![CDATA[Davey Hendrickson wrote an excellent review of Professor Bratt’s new biography of Abraham Kuyper.]]></description>
 				<content:encoded><![CDATA[<p>Davey Hendrickson <a href="http://www.cardus.ca/comment/article/4000/can-these-bones-live-unexpected-lessons-from-the-life-of-kuyper/">wrote an excellent review</a> of Professor Bratt’s new biography of Abraham Kuyper.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/an-excellent-review-of-bratts-new-biography-of-kuyper/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

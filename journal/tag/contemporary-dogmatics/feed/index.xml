@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/contemporary-dogmatics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>One to watch: New Studies in Dogmatics</title>
 		<link>/journal/one-to-watch-new-studies-in-dogmatics/</link>
-		<comments>/journal/one-to-watch-new-studies-in-dogmatics/#respond</comments>
 		<pubDate>Mon, 20 Apr 2015 15:44:51 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -35,8 +34,6 @@
 <p><span style="line-height: 1.5;">I am heartened that the editors have chosen to include the doctrine of God (divine names and Trinity) among the </span><em style="line-height: 1.5;">loci</em><span style="line-height: 1.5;"> covered in the new series; for Berkouwer’s omission of this fundamental locus is perplexing indeed.</span></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/one-to-watch-new-studies-in-dogmatics/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

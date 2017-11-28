@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/teaching/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>What is the lot of the intellectual life?</title>
 		<link>/journal/what-is-the-lot-of-the-intellectual-life/</link>
-		<comments>/journal/what-is-the-lot-of-the-intellectual-life/#respond</comments>
 		<pubDate>Wed, 13 May 2015 20:20:59 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Dies und Das]]></category>
@@ -33,13 +32,10 @@
 <blockquote><p>Do you want to have a humble share in perpetuating wisdom among men, in gathering up the inheritance of the ages, in formulating the rules of the mind for the present time, in discovering facts and causes, in turning men’s wandering eyes towards first causes and their hearts towards supreme ends, in reviving if necessary some dying flame, in organising the propaganda of truth and goodness? That is the lot reserved for you. It is surely worth a little extra sacrifice; it is worthy steadily pursuing with jealous passion.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;"><cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 11–12.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/what-is-the-lot-of-the-intellectual-life/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>“the twofold, never-ending task of the true teacher”:</title>
 		<link>/journal/the-twofold-never-ending-task-of-the-true-teacher/</link>
-		<comments>/journal/the-twofold-never-ending-task-of-the-true-teacher/#respond</comments>
 		<pubDate>Wed, 04 Mar 2015 23:01:50 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -51,13 +47,10 @@
 <blockquote><p>To reflect the totality of truth <em>and</em>, in a constantly inquiring meditation, to discover and point out wherein lies the relevance of truth to his own time.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">—Josef Pieper, <a href="http://www.staugustine.net/our-books/books/the-silence-of-st-thomas/"><em>The Silence of St. Thomas</em></a> (South Bend, Indiana: St. Augustine’s Press, 1999), 107.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-twofold-never-ending-task-of-the-true-teacher/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>The strange new era and the aggressive unteacher</title>
 		<link>/journal/the-strange-new-era-and-the-aggressive-unteacher/</link>
-		<comments>/journal/the-strange-new-era-and-the-aggressive-unteacher/#respond</comments>
 		<pubDate>Wed, 25 Feb 2015 12:52:55 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[philosophia]]></category>
@@ -74,13 +67,10 @@
 <p>In the classroom I answer such questions, “Tell that to the man who is trying to rape or murder you.” This is a much more aggressive response than Aristotle and Thomas would make to their students, but their students did not ask such questions. Today a classical teacher must be aggressive before he can exercise his humility. Before the students’ original baloney-meters can be recalibrated, the ersatz baloney-meters that have been installed alongside them must be disconnected. So students must unlearn before they can learn. A classical teacher today is first, though not last, an unteacher.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">— J. Budziszewski, <em>Written on the Heart: The Case for Natural Law</em> (Downers Grove, IL: Intervarsity, 1997), 174–75.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-strange-new-era-and-the-aggressive-unteacher/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 		<item>
 		<title>the crux of teaching</title>
 		<link>/journal/the-crux-of-teaching/</link>
-		<comments>/journal/the-crux-of-teaching/#respond</comments>
 		<pubDate>Mon, 23 Feb 2015 11:45:46 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -92,8 +82,6 @@
 <blockquote><p>Teaching demands above all else the capacity of survey and of simplification, and the ability and effort to think from the premise of a beginner.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">—Josef Pieper, <a href="http://www.staugustine.net/our-books/books/the-silence-of-st-thomas/"><em>The Silence of St. Thomas</em></a> (South Bend, Indiana: St. Augustine’s Press, 1999), 24.</span></p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/the-crux-of-teaching/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

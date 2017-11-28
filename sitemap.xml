@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--generator='jetpack-5.5.1'-->
-<?xml-stylesheet type="text/xsl" href="http://localhost:8888/sitemap-index.xsl"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>http://localhost:8888/sitemap-1.xml</loc><lastmod>2017-11-27T23:01:44Z</lastmod></sitemap><sitemap><loc>http://localhost:8888/image-sitemap-1.xml</loc><lastmod>2017-11-27T21:02:52Z</lastmod></sitemap></sitemapindex>
+<?xml-stylesheet type="text/xsl" href="/sitemap-index.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>/sitemap-1.xml</loc><lastmod>2017-11-27T23:01:44Z</lastmod></sitemap><sitemap><loc>/image-sitemap-1.xml</loc><lastmod>2017-11-27T21:02:52Z</lastmod></sitemap></sitemapindex>

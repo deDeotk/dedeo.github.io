@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/larger-catechism/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>“I am praying for them”: a sermon on Exodus 32 and John 17:9</title>
 		<link>/journal/i-am-praying-for-them/</link>
-		<comments>/journal/i-am-praying-for-them/#respond</comments>
 		<pubDate>Mon, 19 Aug 2013 18:40:26 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[sacra doctrina]]></category>
@@ -40,8 +39,6 @@ A. Christ maketh intercession, by his appearing in our nature continually before
 <p>I use Moses’s temporary, earthly, and inglorious intercession in Exodus 32 as a backdrop for contrasting Jesus’s eternal, heavenly, and glorious intercession of which Jesus gives us a glimpse in his high priestly prayer (John 17:9).</p>
 <p>(<a href="https://archive.org/download/IAmPrayingForThem/2013.07.21%20-%20I%20am%20praying%20for%20them.mp3">download MP3</a>; 5.4 MB)</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/i-am-praying-for-them/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

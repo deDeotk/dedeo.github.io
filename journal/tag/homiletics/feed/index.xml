@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/homiletics/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>The Soul of Preaching</title>
 		<link>/journal/soul-preaching/</link>
-		<comments>/journal/soul-preaching/#respond</comments>
 		<pubDate>Tue, 10 Dec 2013 02:07:28 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -35,8 +34,6 @@
 <p style="text-align: right;">—Petrus van Mastricht, <a href="http://www.heritagebooks.org/the-best-method-of-preaching/"><em>The Best Method of Preaching</em></a>, trans. Todd Rester<br />
 (Grand Rapids, MI: Reformation Heritage Books, 2013), 46.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/soul-preaching/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/christianity-and-islam/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Mikhail on ‘Ammār al-Baṣrī’s Kitāb al-Burhān</title>
 		<link>/journal/mikhail-ammar-al-ba%e1%b9%a3ris-kitab-al-burhan/</link>
-		<comments>/journal/mikhail-ammar-al-ba%e1%b9%a3ris-kitab-al-burhan/#respond</comments>
 		<pubDate>Thu, 22 Aug 2013 15:02:08 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Islam]]></category>
@@ -33,8 +32,6 @@
 				<content:encoded><![CDATA[<p><a href="http://www.etsc.org/new/community/faculty/58"><img class="alignright size-medium wp-image-278" alt="Mikhail" src="/wp-content/uploads/2013/08/Mikhail-300x251.jpg" width="300" height="251" /></a>Willem J. de Wit writes <a href="http://wjdw.nl/2013/08/05/who-was-ammar-al-ba%E1%B9%A3ri-and-what-did-he-say/">a helpful introduction</a> to <a href="http://www.etsc.org/new/community/faculty/58">Wageeh Y. F. Mikhail’s</a> recent dissertation at the University of Birmingham on a forgotten ninth-century Christian theologian who lived in an Islamic context: <a href="http://etheses.bham.ac.uk/4162/">‘Ammār al-Baṣrī’s <em>Kitāb al-Burhān</em>: a topical and theological analysis of Arabic Christian theology in the ninth century</a> (<a href="http://etheses.bham.ac.uk/4162/1/Mikhail13PhD.pdf">PDF</a>; 445 pp.; 2 MB). This welcome study includes the first English translation of ‘Ammār’s <em>Kitāb al-Burhān</em>.</p>
 <p>In class last fall I tried to emphasize the need for us Western Christians to listen to and learn from our Eastern adelphoi with respect to Christian-Muslim relations. Mikhail’s study looks to be an important and much useful tool for this purpose. Along this line de Wit asks, in reference to ‘Ammār’s Christian musing on Islam: “could it be that, at least in some respects, the Arabs are centuries ahead of Europeans and Americans?” I hope we Western Evangelicals are ready with a quick “yes!”</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/mikhail-ammar-al-ba%e1%b9%a3ris-kitab-al-burhan/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>

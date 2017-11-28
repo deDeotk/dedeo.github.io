@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/journal/tag/peter-lombard/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Mon, 27 Nov 2017 23:01:44 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 28 Nov 2017 03:06:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -20,7 +20,6 @@
 	<item>
 		<title>Divine processions ad intra and missions ad extra</title>
 		<link>/journal/divine-processions-ad-intra-and-missions-ad-extra/</link>
-		<comments>/journal/divine-processions-ad-intra-and-missions-ad-extra/#respond</comments>
 		<pubDate>Fri, 21 Jun 2013 18:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[lo]]></dc:creator>
 				<category><![CDATA[Quotables]]></category>
@@ -37,8 +36,6 @@
 <p style="text-align: right;">—<em>Saint Thomas Aquinas</em>, vol. 1, <em>The Person and His Work</em>, rev. ed.,<br />
 trans. Robert Royal (Washington D.C.: The Catholic University of America Press, 2005), 43.</p>
 ]]></content:encoded>
-			<wfw:commentRss>/journal/divine-processions-ad-intra-and-missions-ad-extra/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+			</item>
 	</channel>
 </rss>
