@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>Seminary &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/tag/seminary/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>The five stages of CTS PhD comprehensives (part 1)</title>
 		<link>/journal/the-five-stages-of-cts-phd-comprehensives-part-1/</link>

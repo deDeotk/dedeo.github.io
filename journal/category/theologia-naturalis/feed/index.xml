@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>theologia naturalis &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/category/theologia-naturalis/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>cor legis naturalis</title>
 		<link>/journal/cor-legis-naturalis/</link>
@@ -70,7 +70,7 @@
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=1180</guid>
 		<description><![CDATA[Again, the sight of God is twofold. One is perfect, whereby God&#8217;s Essence is seen: the other is imperfect, whereby, though we see not what God is, yet we see what He is not; and whereby, the more perfectly do we know God in this life, the more we understand that He surpasses all that &#8230; <p class="link-more"><a href="/journal/why-the-quinque-viae-are-for-those-living-in-via/" class="more-link">Continue reading<span class="screen-reader-text"> "Why the quinque viae are for those living in via"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_1186" style="max-width: 220px" class="wp-caption alignright"><img class="wp-image-1186 size-medium" src="/wp-content/uploads/2015/07/Aquinas_Gentile_da_Fabriano-220x300.jpg" alt="Thomas Aquinas in Valle Romita Polyptych by Gentile da Fabriano" width="220" height="300" /><figcaption class="wp-caption-text">Thomas Aquinas in <em><a href="https://en.wikipedia.org/wiki/Valle_Romita_Polyptych">Valle Romita Polyptych</a></em><br />by Gentile da Fabriano</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_1186" style="width: 220px" class="wp-caption alignright"><img class="wp-image-1186 size-medium" src="/wp-content/uploads/2015/07/Aquinas_Gentile_da_Fabriano-220x300.jpg" alt="Thomas Aquinas in Valle Romita Polyptych by Gentile da Fabriano" width="220" height="300" /><figcaption class="wp-caption-text">Thomas Aquinas in <em><a href="https://en.wikipedia.org/wiki/Valle_Romita_Polyptych">Valle Romita Polyptych</a></em><br />by Gentile da Fabriano</figcaption></figure>
 <blockquote><p>Again, the sight of God is twofold. One is perfect, whereby God&#8217;s Essence is seen: the other is imperfect, whereby, though we see not what God is, yet we see what He is not; and whereby, the more perfectly do we know God in this life, the more we understand that He surpasses all that the mind comprehends. Each of these visions of God belongs to the gift of understanding; the first, to the gift of understanding in its state of perfection, as possessed in heaven; the second, to the gift of understanding in its state of inchoation, as possessed by wayfarers.</p></blockquote>
 <p style="text-align: right; font-size: .8em;">—Aquinas, <em>ST</em> <a href="http://dhspriory.org/thomas/summa/SS/SS008.html#SSQ8A7THEP1">2–2.8.7 corpus</a>.</p>
 <blockquote>

@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>spirituality &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/tag/spirituality/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>the feet by which we walk near to and far from God</title>
 		<link>/journal/the-feet-by-which-we-walk-near-to-and-far-from-god/</link>
@@ -30,7 +30,7 @@
 		<guid isPermaLink="false">https://dedeo.tk/?p=944</guid>
 		<description><![CDATA[We draw near to God by no corporeal steps, since He is everywhere, but by the affections of our soul, and by the actions of that same soul do we withdraw from Him. —Aquinas, ST 1.3.1 ad 5.]]></description>
 				<content:encoded><![CDATA[<blockquote>
-<figure id="attachment_866" style="max-width: 220px" class="wp-caption alignright"><a href="/wp-content/uploads/2015/02/ThomasAquinas.jpg"><img class="wp-image-866 size-medium" src="/wp-content/uploads/2015/02/ThomasAquinas-220x300.jpg" alt="Thomas Aquinas (1225–1274) as depicted in Valle Romita Polyptych by Gentile da Fabriano" width="220" height="300" /></a><figcaption class="wp-caption-text">Thomas Aquinas (1225–1274) as depicted in Valle Romita Polyptych by Gentile da Fabriano</figcaption></figure>
+<figure id="attachment_866" style="width: 220px" class="wp-caption alignright"><a href="/wp-content/uploads/2015/02/ThomasAquinas.jpg"><img class="wp-image-866 size-medium" src="/wp-content/uploads/2015/02/ThomasAquinas-220x300.jpg" alt="Thomas Aquinas (1225–1274) as depicted in Valle Romita Polyptych by Gentile da Fabriano" width="220" height="300" /></a><figcaption class="wp-caption-text">Thomas Aquinas (1225–1274) as depicted in Valle Romita Polyptych by Gentile da Fabriano</figcaption></figure>
 <p>We draw near to God by no corporeal steps, since He is everywhere, but by the affections of our soul, and by the actions of that same soul do we withdraw from Him.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">—Aquinas, <em>ST</em> <a href="http://dhspriory.org/thomas/summa/FP/FP003.html#FPQ3A1THEP1">1.3.1 ad 5</a>.</span></p>
 ]]></content:encoded>

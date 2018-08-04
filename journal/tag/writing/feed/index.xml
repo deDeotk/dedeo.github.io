@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>writing &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/tag/writing/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Truth, style, and the secret of writing</title>
 		<link>/journal/truth-style-and-the-secret-of-writing/</link>
@@ -29,7 +29,7 @@
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=1078</guid>
 		<description><![CDATA[The qualities of style may be set out under as many headings as you will; but they can all be contained, I think, in these three words: truth, individuality, and simplicity; unless you prefer to sum it all up in a single formula; one must write truly. A style is true when it corresponds to a &#8230; <p class="link-more"><a href="/journal/truth-style-and-the-secret-of-writing/" class="more-link">Continue reading<span class="screen-reader-text"> "Truth, style, and the secret of writing"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_994" style="max-width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_994" style="width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
 <blockquote><p>The qualities of style may be set out under as many headings as you will; but they can all be contained, I think, in these three words: truth, individuality, and simplicity; unless you prefer to sum it all up in a single formula; one must write <em>truly.</em></p>
 <p>A style is true when it corresponds to a necessity of thought and when it keeps intimate contact with things.</p>
 <p>[&#8230;]</p>

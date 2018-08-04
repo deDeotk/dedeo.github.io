@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>philosophy &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/tag/philosophy-2/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>On not playing the “anything you can do, I can do meta” game</title>
 		<link>/journal/on-not-playing-the-anything-you-can-do-i-can-do-meta-game/</link>
@@ -49,7 +49,7 @@
 		<guid isPermaLink="false">http://dedeo.tk/?p=1302</guid>
 		<description><![CDATA[&#8230;a theologian is no more able to forego metaphysics and logic than a carpenter a hammer or a soldier weapons. Gisbertus Voetius, Exercitia et bibliotheca studiosi theologiae, 2nd ed. (Utrecht, 1651), 26; cf. Aza Goudriaan, “Theology and Philosophy,” in A Companion to Reformed Orthodoxy, ed. Herman J. Selderhuis (Leiden: Brill, 2013), 27–63 (translation at p. 33; altered). &#8230; <p class="link-more"><a href="/journal/voetius-on-metaphysics/" class="more-link">Continue reading<span class="screen-reader-text"> "Voetius on metaphysics"</span></a></p>]]></description>
 				<content:encoded><![CDATA[<blockquote>
-<figure id="attachment_1306" style="max-width: 150px" class="wp-caption alignright"><a href="http://www.prdl.org/author_view.php?a_id=68" rel="attachment wp-att-1306"><img class="wp-image-1306 size-thumbnail" src="/wp-content/uploads/2016/02/Voetius-150x150.jpg" alt="Gisbertus Voetius (1589–1676)" width="150" height="150" /></a><figcaption class="wp-caption-text">Gisbertus Voetius (1589–1676)</figcaption></figure>
+<figure id="attachment_1306" style="width: 150px" class="wp-caption alignright"><a href="http://www.prdl.org/author_view.php?a_id=68" rel="attachment wp-att-1306"><img class="wp-image-1306 size-thumbnail" src="/wp-content/uploads/2016/02/Voetius-150x150.jpg" alt="Gisbertus Voetius (1589–1676)" width="150" height="150" /></a><figcaption class="wp-caption-text">Gisbertus Voetius (1589–1676)</figcaption></figure>
 <p>&#8230;a theologian is no more able to forego metaphysics and logic than a carpenter a hammer or a soldier weapons.</p></blockquote>
 <p style="text-align: left; font-size: .8em;">Gisbertus Voetius, <em><a href="https://books.google.com/books?id=KxYVAAAAQAAJ&amp;pg=PA26#v=onepage&amp;q&amp;f=false">Exercitia et bibliotheca studiosi theologiae</a></em>, 2nd ed. (Utrecht, 1651), 26; cf. Aza Goudriaan, “Theology and Philosophy,” in <em>A Companion to Reformed Orthodoxy</em>, ed. Herman J. Selderhuis (Leiden: Brill, 2013), 27–63 (translation at p. 33; altered). Full sentence: <em>Ad accuratos, distinctos, &amp; evidentes conceptus tam anascevastice quam catascevastice in Theologia dogmatica &amp; practica, adhaec in explicatione scriptura formandos, ad proprias meditationes ampliandas, &amp; ad alienas diiudicandas non magis metaphysica &amp; logica carere potest Theologus quam faber malleo, aut miles armis.</em></p>
 ]]></content:encoded>
@@ -67,7 +67,7 @@
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=1213</guid>
 		<description><![CDATA[The philosophy which assumes and proceeds upon the reality of things may be called a Realistic Philosophy. I am convinced that in the end this will be acknowledged as the true philosophy, and will set aside the Sceptical Philosophy, which denies the reality of things, and the Agnostic Philosophy, which affirms (as the only thing &#8230; <p class="link-more"><a href="/journal/things-first/" class="more-link">Continue reading<span class="screen-reader-text"> "Things first"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_1170" style="max-width: 256px" class="wp-caption alignright"><a href="https://en.wikipedia.org/wiki/James_McCosh"><img class="size-full wp-image-1170" src="/wp-content/uploads/2015/07/James_McCosh.jpg" alt="James McCosh (1811–1894)" width="256" height="400" /></a><figcaption class="wp-caption-text">James McCosh (1811–1894)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_1170" style="width: 256px" class="wp-caption alignright"><a href="https://en.wikipedia.org/wiki/James_McCosh"><img class="size-full wp-image-1170" src="/wp-content/uploads/2015/07/James_McCosh.jpg" alt="James McCosh (1811–1894)" width="256" height="400" /></a><figcaption class="wp-caption-text">James McCosh (1811–1894)</figcaption></figure>
 <blockquote><p>The philosophy which assumes and proceeds upon the reality of things may be called a Realistic Philosophy. I am convinced that in the end this will be acknowledged as the true philosophy, and will set aside the Sceptical Philosophy, which denies the reality of things, and the Agnostic Philosophy, which affirms (as the only thing it knows) that we cannot know things, and the Idealistic Philosophy, which adds to things out of the stores of the mind, with the view of improving them.</p></blockquote>
 <p style="text-align: right; font-size: .8em;">—James McCosh, <em><a href="https://books.google.com/books?id=dgIRAAAAYAAJ&#038;printsec=frontcover#v=onepage&#038;q&#038;f=false">First and Fundamental Truths</a>: Being a Treatise on Metaphysics</em> (New York: Charles Scribner’s Sons, 1889), 6–7.</p>
 ]]></content:encoded>

@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>Dies und Das &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/category/miscellaneous/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Ellebogius: “When in doubt . . .”</title>
 		<link>/journal/ellebogius-when-in-doubt/</link>
@@ -65,7 +65,7 @@
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=1333</guid>
 		<description><![CDATA[Pondering Bavinck’s outline of his Dogmatiek brought to mind a passage in the introduction to Francesco Olgiati’s The Key to the Study of St. Thomas:1 In the greater part of these recent works on St. Thomas Auinas one notes a preference for the analytic method. To be sure, this method had its merits. It was &#8230; <p class="link-more"><a href="/journal/olgiati-on-the-synthetic-whole/" class="more-link">Continue reading<span class="screen-reader-text"> "Olgiati on the synthetic whole"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<p><figure id="attachment_1335" style="max-width: 177px" class="wp-caption alignright"><a href="http://it.cathopedia.org/wiki/Francesco_Olgiati" rel="attachment wp-att-1335"><img src="/wp-content/uploads/2016/02/Olgiati-e1455746472172.jpg" alt="Francesco Olgiati (1886–1962) " width="177" height="238" class="size-full wp-image-1335" /></a><figcaption class="wp-caption-text">Francesco Olgiati<br />(1886–1962)</figcaption></figure>Pondering <a href="/bavincks-outline-of-the-reformed-dogmatics/">Bavinck’s outline</a> of his <em>Dogmatiek</em> brought to mind a passage in the introduction to Francesco Olgiati’s <em>The Key to the Study of St. Thomas</em>:<sup id="fnref-1333-1"><a href="#fn-1333-1" rel="footnote">1</a></sup></p>
+				<content:encoded><![CDATA[<p><figure id="attachment_1335" style="width: 177px" class="wp-caption alignright"><a href="http://it.cathopedia.org/wiki/Francesco_Olgiati" rel="attachment wp-att-1335"><img src="/wp-content/uploads/2016/02/Olgiati-e1455746472172.jpg" alt="Francesco Olgiati (1886–1962) " width="177" height="238" class="size-full wp-image-1335" /></a><figcaption class="wp-caption-text">Francesco Olgiati<br />(1886–1962)</figcaption></figure>Pondering <a href="/bavincks-outline-of-the-reformed-dogmatics/">Bavinck’s outline</a> of his <em>Dogmatiek</em> brought to mind a passage in the introduction to Francesco Olgiati’s <em>The Key to the Study of St. Thomas</em>:<sup id="fnref-1333-1"><a href="#fn-1333-1" rel="footnote">1</a></sup></p>
 <blockquote><p>
   In the greater part of these recent works on St. Thomas Auinas one notes a preference for the analytic method. To be sure, this method had its merits. It was necessary to call attention to the theses, the theories, the several parts of the system, just as when seeking to make a person known, we begin by describing his life with its most noteworthy facts and salient exploits, as well as its most minute episodes and many seemingly negligible details. Every point of the Thomistic conception is scrutinized, illumined, discussed. After the manner of hardy explorers, the students of St. Thomas, in their loving solicitude to trace its lines with due precision, have not overlooked a single outskirt of this hallowed ground.
 </p></blockquote>
@@ -216,7 +216,7 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=1078</guid>
 		<description><![CDATA[The qualities of style may be set out under as many headings as you will; but they can all be contained, I think, in these three words: truth, individuality, and simplicity; unless you prefer to sum it all up in a single formula; one must write truly. A style is true when it corresponds to a &#8230; <p class="link-more"><a href="/journal/truth-style-and-the-secret-of-writing/" class="more-link">Continue reading<span class="screen-reader-text"> "Truth, style, and the secret of writing"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_994" style="max-width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_994" style="width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
 <blockquote><p>The qualities of style may be set out under as many headings as you will; but they can all be contained, I think, in these three words: truth, individuality, and simplicity; unless you prefer to sum it all up in a single formula; one must write <em>truly.</em></p>
 <p>A style is true when it corresponds to a necessity of thought and when it keeps intimate contact with things.</p>
 <p>[&#8230;]</p>
@@ -238,7 +238,7 @@ On the unity of first and final cause, see 1. Duane H. Berquist, “<a href="htt
 
 		<guid isPermaLink="false">https://dedeo.tk/?p=1017</guid>
 		<description><![CDATA[Read only those books in which leading ideas are expressed at first hand. These are not very numerous. Books repeat one another, water one another down, or contradict one another, and that too is a kind of repetition. On examination we find that discoveries in thought are rare. The old stock or rather the permanent &#8230; <p class="link-more"><a href="/journal/what-to-read/" class="more-link">Continue reading<span class="screen-reader-text"> "Read less, read better"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_994" style="max-width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_994" style="width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
 <blockquote><p>Read only those books in which leading ideas are expressed at first hand. These are not very numerous. Books repeat one another, water one another down, or contradict one another, and that too is a kind of repetition. On examination we find that discoveries in thought are rare. The old stock or rather the permanent stock of ideas is the best; one must take one’s stand on it in order truly to commune with the intelligence of man, far from petty, stammering, squabbling individualities.<br />
 [&#8230;]<br />
 . . . love the eternal books that express eternal truths.</p></blockquote>

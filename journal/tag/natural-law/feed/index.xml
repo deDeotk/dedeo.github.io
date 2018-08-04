@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>natural law &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/tag/natural-law/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>Calling a spade</title>
 		<link>/journal/calling-a-spade/</link>
@@ -87,7 +87,7 @@
 		<guid isPermaLink="false">http://dedeo.tk/?p=1122</guid>
 		<description><![CDATA[The metaphysician, faced with someone who denies the first principles, or even with the task of judging the first principles, does no more than call to our attention the more searching eye already present in us all — merely reaches back more searchingly than does the ethician to what we all know. And, in that perspective, &#8230; <p class="link-more"><a href="/journal/how-to-defend-first-principles/" class="more-link">Continue reading<span class="screen-reader-text"> "How to defend first principles"</span></a></p>]]></description>
 				<content:encoded><![CDATA[<blockquote>
-<figure id="attachment_1117" style="max-width: 219px" class="wp-caption alignright"><a href="http://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&amp;fp=revmetaph&amp;id=revmetaph_2015_0068_0004_0915_0916"><img class="wp-image-1117 size-full" src="/wp-content/uploads/2015/07/LawrenceDewanOP.jpg" alt="Lawrence Dewan OP (1932–2015)" width="219" height="170" /></a><figcaption class="wp-caption-text">Fr Lawrence Dewan OP<br /> (1932–2015)</figcaption></figure>
+<figure id="attachment_1117" style="width: 219px" class="wp-caption alignright"><a href="http://www.pdcnet.org/pdc/bvdb.nsf/purchase?openform&amp;fp=revmetaph&amp;id=revmetaph_2015_0068_0004_0915_0916"><img class="wp-image-1117 size-full" src="/wp-content/uploads/2015/07/LawrenceDewanOP.jpg" alt="Lawrence Dewan OP (1932–2015)" width="219" height="170" /></a><figcaption class="wp-caption-text">Fr Lawrence Dewan OP<br /> (1932–2015)</figcaption></figure>
 <p>The metaphysician, faced with someone who denies the first principles, or even with the task of judging the first principles, does no more than call to our attention the more searching eye already present in us all — merely reaches back more searchingly than does the ethician to what we all know. And, in that perspective, the first principles stand exposed as an intelligible hierarchy, a sequence of visions each flowing from its intelligible predecessor; and in that vision, “good” derives from “a being,” or, if one will, “ought” from “is.”</p></blockquote>
 <p style="text-align: right; font-size: .8em;">Lawrence Dewan, “<a href="http://people.stfx.ca/wsweet/EM/02-1986/No%202%20April%201986%20-%20Dewan.pdf">St. Thomas, Our Natural Lights, and the Moral Order</a>,” MaritainStudies/Etudes Maritainiennes (Ottawa) 2 (1986): 63.</p>
 ]]></content:encoded>

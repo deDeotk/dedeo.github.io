@@ -5,18 +5,18 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" >
 
 <channel>
 	<title>teaching &#8211; de Deo</title>
 	<atom:link href="http://localhost/journal/tag/teaching/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>“In Thy light we see light”</description>
-	<lastBuildDate>Tue, 28 Nov 2017 15:39:18 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Aug 2018 18:23:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.9</generator>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
 	<item>
 		<title>What is the lot of the intellectual life?</title>
 		<link>/journal/what-is-the-lot-of-the-intellectual-life/</link>
@@ -27,7 +27,7 @@
 
 		<guid isPermaLink="false">https://dedeo.tk/?p=992</guid>
 		<description><![CDATA[Antonin Sertillanges puts into well-formed words the fructus of the well-ordered mind as it overflows its banks in season, bringing life-giving water to thirsty souls from the eternal well of truth, the same well from which it regularly draws its own deep drafts: Do you want to have a humble share in perpetuating wisdom among men, in &#8230; <p class="link-more"><a href="/journal/what-is-the-lot-of-the-intellectual-life/" class="more-link">Continue reading<span class="screen-reader-text"> "What is the lot of the intellectual life?"</span></a></p>]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_994" style="max-width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_994" style="width: 207px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges"><img class="size-full wp-image-994" src="/wp-content/uploads/2015/05/Antonin-Dalmace-Sertillanges-e1431547456881.jpg" alt="Antonin Sertillanges (1863–1948)" width="207" height="263" /></a><figcaption class="wp-caption-text">Antonin Sertillanges<br />(1863–1948)</figcaption></figure>
 <p><a href="http://en.wikipedia.org/wiki/Antonin_Sertillanges">Antonin Sertillanges</a> puts into well-formed words the <em>fructus</em> of the well-ordered mind as it overflows its banks in season, bringing life-giving water to thirsty souls from the eternal well of truth, the same well from which it regularly draws its own deep drafts:</p>
 <blockquote><p>Do you want to have a humble share in perpetuating wisdom among men, in gathering up the inheritance of the ages, in formulating the rules of the mind for the present time, in discovering facts and causes, in turning men’s wandering eyes towards first causes and their hearts towards supreme ends, in reviving if necessary some dying flame, in organising the propaganda of truth and goodness? That is the lot reserved for you. It is surely worth a little extra sacrifice; it is worthy steadily pursuing with jealous passion.</p></blockquote>
 <p><span style="font-size: 0.8em; text-align: right;"><cite><a href="http://www.worldcat.org/title/intellectual-life-its-spirit-conditions-methods/oclc/6033719&amp;referer=brief_results">The Intellectual Life: Its Spirit, Conditions, Methods</a></cite> (repr. 1998; Washington DC: Catholic University of America Press, 1987), 11–12.</span></p>
@@ -43,7 +43,7 @@
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=895</guid>
 		<description><![CDATA[To reflect the totality of truth and, in a constantly inquiring meditation, to discover and point out wherein lies the relevance of truth to his own time. —Josef Pieper, The Silence of St. Thomas (South Bend, Indiana: St. Augustine’s Press, 1999), 107.]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_851" style="max-width: 300px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Josef_Pieper"><img class="size-medium wp-image-851" src="/wp-content/uploads/2015/02/JosefPieper-300x226.jpg" alt="Josef Pieper (1904–1997)" width="300" height="226" /></a><figcaption class="wp-caption-text">Josef Pieper (1904–1997)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_851" style="width: 300px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Josef_Pieper"><img class="size-medium wp-image-851" src="/wp-content/uploads/2015/02/JosefPieper-300x226.jpg" alt="Josef Pieper (1904–1997)" width="300" height="226" /></a><figcaption class="wp-caption-text">Josef Pieper (1904–1997)</figcaption></figure>
 <blockquote><p>To reflect the totality of truth <em>and</em>, in a constantly inquiring meditation, to discover and point out wherein lies the relevance of truth to his own time.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">—Josef Pieper, <a href="http://www.staugustine.net/our-books/books/the-silence-of-st-thomas/"><em>The Silence of St. Thomas</em></a> (South Bend, Indiana: St. Augustine’s Press, 1999), 107.</span></p>
 ]]></content:encoded>
@@ -78,7 +78,7 @@
 
 		<guid isPermaLink="false">http://dedeo.tk/?p=879</guid>
 		<description><![CDATA[Teaching demands above all else the capacity of survey and of simplification, and the ability and effort to think from the premise of a beginner. —Josef Pieper, The Silence of St. Thomas (South Bend, Indiana: St. Augustine’s Press, 1999), 24.]]></description>
-				<content:encoded><![CDATA[<figure id="attachment_851" style="max-width: 300px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Josef_Pieper"><img class="size-medium wp-image-851" src="/wp-content/uploads/2015/02/JosefPieper-300x226.jpg" alt="Josef Pieper (1904–1997)" width="300" height="226" /></a><figcaption class="wp-caption-text">Josef Pieper (1904–1997)</figcaption></figure>
+				<content:encoded><![CDATA[<figure id="attachment_851" style="width: 300px" class="wp-caption alignright"><a href="http://en.wikipedia.org/wiki/Josef_Pieper"><img class="size-medium wp-image-851" src="/wp-content/uploads/2015/02/JosefPieper-300x226.jpg" alt="Josef Pieper (1904–1997)" width="300" height="226" /></a><figcaption class="wp-caption-text">Josef Pieper (1904–1997)</figcaption></figure>
 <blockquote><p>Teaching demands above all else the capacity of survey and of simplification, and the ability and effort to think from the premise of a beginner.</p></blockquote>
 <p style="text-align: right;"><span style="font-size: .8em;">—Josef Pieper, <a href="http://www.staugustine.net/our-books/books/the-silence-of-st-thomas/"><em>The Silence of St. Thomas</em></a> (South Bend, Indiana: St. Augustine’s Press, 1999), 24.</span></p>
 ]]></content:encoded>
