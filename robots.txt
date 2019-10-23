@@ -1,5 +1,0 @@
-Sitemap: https://dedeo.cf/sitemap.xml
-Sitemap: https://dedeo.cf/news-sitemap.xml
-User-agent: *
-Disallow: /wp-admin/
-Allow: /wp-admin/admin-ajax.php
